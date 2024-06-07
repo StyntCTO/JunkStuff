@@ -135,4 +135,19 @@
     <weeklyPayRate>40</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
+  <job>
+    <id>759423</id>
+    <postedAt>2022-10-20T11:11:37.927</postedAt>
+    <title>Travel CT Technologist</title>
+    <specialty>CT Tech</specialty>
+    <category>ALLIED</category>
+    <city>Birmingham</city>
+    <state>AL</state>
+    <startDate>2022-10-20T11:11:37.927</startDate>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>9</hoursPerShift>
+    <hoursPerWeek>2850</hoursPerWeek>
+    <weeklyPayRate>40</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
+  </job>
 </jobs>
