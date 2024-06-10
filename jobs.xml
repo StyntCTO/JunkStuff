@@ -75,4 +75,34 @@
     <weeklyPayRate>1973</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
+  <job>
+    <id>50309</id>
+    <postedAt>Jun 04 2024</postedAt>
+    <title>RN - Float/MS/Stepdown</title>
+    <specialty>Float/MS/Stepdown</specialty>
+    <category>RN</category>
+    <city>Pontiac</city>
+    <state>MI</state>
+    <startDate>6/17/2024</startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>1965</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
+  </job>
+  <job>
+    <id>49998</id>
+    <postedAt>Jun 03 2024</postedAt>
+    <title>RN - CVU</title>
+    <specialty>CVU</specialty>
+    <category>RN</category>
+    <city>Petosky</city>
+    <state>MI</state>
+    <startDate>6/17/2024</startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2008</weeklyPayRate>
+    <contractLengthInWeeks></contractLengthInWeeks>
+  </job>
 </jobs>
