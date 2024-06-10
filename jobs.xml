@@ -57,7 +57,7 @@
     <shiftsPerWeek>3</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>36</hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
+    <weeklyPayRate>1973</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
