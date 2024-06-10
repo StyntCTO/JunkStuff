@@ -129,9 +129,9 @@
     <city>Cedar Rapids</city>
     <state>IA</state>
     <startDate>7/1/2024</startDate>
-    <shiftsPerWeek>3 or 4</shiftsPerWeek>
+    <shiftsPerWeek>3</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
-    <hoursPerWeek>36 or 48</hoursPerWeek>
+    <hoursPerWeek>36</hoursPerWeek>
     <weeklyPayRate>2000</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
@@ -202,19 +202,19 @@
     <specialty>RN - Emergency Room</specialty>
     <category>RN</category>
     <city>Tucson</city>
-    <state></state>
-    <startDate></startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <state>AZ</state>
+    <startDate>Mon Jul 08 2024 00:00:00 GMT-0700 (Pacific Daylight Time)</startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2188</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50280</id>
     <postedAt>Jun 10 2024</postedAt>
-    <title>RN - MS/Tele</title>
-    <specialty>RN - MS/Tele</specialty>
+    <title>RN - Med Surg / Tele</title>
+    <specialty>RN - Med Surg / Tele</specialty>
     <category>RN</category>
     <city>Waterloo</city>
     <state>IA</state>
@@ -224,5 +224,65 @@
     <hoursPerWeek>36</hoursPerWeek>
     <weeklyPayRate>2130</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
+  </job>
+  <job>
+    <id>50451</id>
+    <postedAt>Jun 10 2024</postedAt>
+    <title>RN - Med Surg / Tele</title>
+    <specialty>RN - Med Surg / Tele</specialty>
+    <category>RN</category>
+    <city>Rock Island</city>
+    <state>IL</state>
+    <startDate>Mon Jul 01 2024 00:00:00 GMT-0700 (Pacific Daylight Time)</startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2130</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
+  </job>
+  <job>
+    <id>50588</id>
+    <postedAt>Jun 10 2024</postedAt>
+    <title>RN - Med Surg</title>
+    <specialty>RN - Med Surg</specialty>
+    <category>RN</category>
+    <city>Mattoon</city>
+    <state>IL</state>
+    <startDate>Mon Jun 24 2024 00:00:00 GMT-0700 (Pacific Daylight Time)</startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2250</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
+  </job>
+  <job>
+    <id>49441</id>
+    <postedAt>Jun 05 2024</postedAt>
+    <title>Rad Tech - Cardiac Cath Lab</title>
+    <specialty>Rad Tech - Cardiac Cath Lab</specialty>
+    <category>ALLIED</category>
+    <city>Mesa</city>
+    <state>AZ</state>
+    <startDate>Mon Jul 08 2024 00:00:00 GMT-0700 (Pacific Daylight Time)</startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate></weeklyPayRate>
+    <contractLengthInWeeks></contractLengthInWeeks>
+  </job>
+  <job>
+    <id>45712</id>
+    <postedAt>Jun 10 2024</postedAt>
+    <title>RN - Med Surg</title>
+    <specialty>RN - Med Surg</specialty>
+    <category>RN</category>
+    <city>Salina</city>
+    <state>KS</state>
+    <startDate>Mon Jun 24 2024 00:00:00 GMT-0700 (Pacific Daylight Time)</startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate></weeklyPayRate>
+    <contractLengthInWeeks>PERM</contractLengthInWeeks>
   </job>
 </jobs>
