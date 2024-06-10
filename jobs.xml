@@ -1,3 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jobs>
+  <job>
+    <id>46047</id>
+    <postedAt>Jun 05 2024</postedAt>
+    <title>Registered nurse</title>
+    <specialty>PCU</specialty>
+    <category></category>
+    <city></city>
+    <state></state>
+    <startDate></startDate>
+    <shiftsPerWeek></shiftsPerWeek>
+    <hoursPerShift></hoursPerShift>
+    <hoursPerWeek></hoursPerWeek>
+    <weeklyPayRate></weeklyPayRate>
+    <contractLengthInWeeks></contractLengthInWeeks>
+  </job>
 </jobs>
