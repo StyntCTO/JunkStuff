@@ -12,7 +12,7 @@
     <shiftsPerWeek>3</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>36</hoursPerWeek>
-    <weeklyPayRate>1,973.00/weekly</weeklyPayRate>
+    <weeklyPayRate>1973</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
@@ -27,7 +27,7 @@
     <shiftsPerWeek>3</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>36</hoursPerWeek>
-    <weeklyPayRate>1,973.00/weekly</weeklyPayRate>
+    <weeklyPayRate>1973</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
@@ -42,7 +42,7 @@
     <shiftsPerWeek>3</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>36</hoursPerWeek>
-    <weeklyPayRate>1,973.00/weekly</weeklyPayRate>
+    <weeklyPayRate>1973</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
@@ -57,7 +57,7 @@
     <shiftsPerWeek>3</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>36</hoursPerWeek>
-    <weeklyPayRate>1,973.00/weekly</weeklyPayRate>
+    <weeklyPayRate>1973</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
@@ -72,7 +72,7 @@
     <shiftsPerWeek>3</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>36</hoursPerWeek>
-    <weeklyPayRate>1,973.00/weekly</weeklyPayRate>
+    <weeklyPayRate>1973</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
 </jobs>
