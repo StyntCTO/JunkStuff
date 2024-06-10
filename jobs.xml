@@ -267,8 +267,8 @@
     <shiftsPerWeek>3</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>36</hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <weeklyPayRate>2546</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>45712</id>
@@ -282,7 +282,10 @@
     <shiftsPerWeek>3</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>36</hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks>PERM</contractLengthInWeeks>
+    <weeklyPayRate>Salary Range: $29.00/hour - $43.00/hour (based on education and experience)
+($2.00 shift and weekend differential)
+Relocation Allowance: Up to $5,000 (will be discussed further during interview)
+Permanent Placement Fee: 18%</weeklyPayRate>
+    <contractLengthInWeeks>PERM - 27 open perm needs</contractLengthInWeeks>
   </job>
 </jobs>
