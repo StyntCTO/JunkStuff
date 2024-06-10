@@ -123,8 +123,8 @@
   <job>
     <id>50145</id>
     <postedAt>Jun 10 2024</postedAt>
-    <title>RRT</title>
-    <specialty>RRT</specialty>
+    <title>Registered Respiratory Therapist</title>
+    <specialty>Registered Respiratory Therapist</specialty>
     <category>ALLIED</category>
     <city>Cedar Rapids</city>
     <state>IA</state>
@@ -282,11 +282,8 @@
     <shiftsPerWeek>3</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>36</hoursPerWeek>
-    <weeklyPayRate>Salary Range: $29.00/hour - $43.00/hour (based on education and experience)
-($2.00 shift and weekend differential)
-Relocation Allowance: Up to $5,000 (will be discussed further during interview)
-Permanent Placement Fee: 18%</weeklyPayRate>
-    <contractLengthInWeeks>PERM - 27 open perm needs</contractLengthInWeeks>
+    <weeklyPayRate>29 - 43</weeklyPayRate>
+    <contractLengthInWeeks></contractLengthInWeeks>
   </job>
   <job>
     <id>50543</id>
