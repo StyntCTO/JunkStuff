@@ -5,7 +5,22 @@
     <postedAt>Jun 05 2024</postedAt>
     <title>Registered nurse</title>
     <specialty>PCU</specialty>
-    <category></category>
+    <category>Travel</category>
+    <city>Tucson</city>
+    <state>AZ</state>
+    <startDate>7/8/2024</startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>95</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
+  </job>
+  <job>
+    <id>46826</id>
+    <postedAt>Jun 05 2024</postedAt>
+    <title>Registered nurse</title>
+    <specialty>PCU</specialty>
+    <category>Travel</category>
     <city></city>
     <state></state>
     <startDate></startDate>
