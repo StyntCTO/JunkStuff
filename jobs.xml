@@ -12,7 +12,7 @@
     <shiftsPerWeek>3</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>36</hoursPerWeek>
-    <weeklyPayRate>95</weeklyPayRate>
+    <weeklyPayRate></weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
@@ -21,13 +21,43 @@
     <title>Registered nurse</title>
     <specialty>PCU</specialty>
     <category>Travel</category>
-    <city></city>
-    <state></state>
-    <startDate></startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <city>Sun City West</city>
+    <state>AZ</state>
+    <startDate>7/8/2024</startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
+  </job>
+  <job>
+    <id>48671</id>
+    <postedAt>Jun 05 2024</postedAt>
+    <title>Registered nurse</title>
+    <specialty>PCU</specialty>
+    <category>Travel</category>
+    <city>Glendale</city>
+    <state>AZ</state>
+    <startDate>7/8/2024</startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate></weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
+  </job>
+  <job>
+    <id>49160</id>
+    <postedAt>Jun 05 2024</postedAt>
+    <title>Registered nurse</title>
+    <specialty>PCU</specialty>
+    <category>Travel</category>
+    <city>Sun City</city>
+    <state>AZ</state>
+    <startDate>7/8/2024</startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate></weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
 </jobs>
