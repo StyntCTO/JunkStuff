@@ -288,4 +288,19 @@ Relocation Allowance: Up to $5,000 (will be discussed further during interview)
 Permanent Placement Fee: 18%</weeklyPayRate>
     <contractLengthInWeeks>PERM - 27 open perm needs</contractLengthInWeeks>
   </job>
+  <job>
+    <id>50543</id>
+    <postedAt>Jun 05 2024</postedAt>
+    <title>RN - Med Surg/Tele</title>
+    <specialty>RN - Med Surg/Tele</specialty>
+    <category>RN</category>
+    <city>Lima</city>
+    <state>OH</state>
+    <startDate>Tue Jun 25 2024 00:00:00 GMT-0700 (Pacific Daylight Time)</startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>1954</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
+  </job>
 </jobs>
