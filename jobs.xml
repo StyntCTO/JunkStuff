@@ -493,7 +493,7 @@
     <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks>13</contractLengthInWeeks>
+    <contractLengthInWeeks>Perm</contractLengthInWeeks>
   </job>
   <job>
     <id>48770</id>
@@ -553,7 +553,7 @@
     <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks>perm</contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49232</id>
