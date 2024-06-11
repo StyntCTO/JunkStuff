@@ -294,11 +294,11 @@
     <city>Paris</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.947</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49454</id>
@@ -309,11 +309,11 @@
     <city>Lancaster</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.948</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>48338</id>
@@ -324,11 +324,11 @@
     <city>Childress</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.949</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49985</id>
@@ -339,11 +339,11 @@
     <city>Haskell</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.950</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49497</id>
@@ -354,11 +354,11 @@
     <city>Sweetwater</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.951</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49947</id>
@@ -369,11 +369,11 @@
     <city>Diboll</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.952</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49953</id>
@@ -384,11 +384,11 @@
     <city>Jacksonville</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.953</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50211</id>
@@ -399,11 +399,11 @@
     <city>Lubbock</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.954</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50386</id>
@@ -414,11 +414,11 @@
     <city>Hamlin</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.955</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50385</id>
@@ -429,11 +429,11 @@
     <city>Hamlin</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.956</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50164</id>
@@ -444,11 +444,11 @@
     <city>Levelland</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.957</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>48282</id>
@@ -459,11 +459,11 @@
     <city>Borger</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.958</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>48729</id>
@@ -474,11 +474,11 @@
     <city>Pampa</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.959</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50395</id>
@@ -489,11 +489,11 @@
     <city>Haskell</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.960</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>48770</id>
@@ -504,11 +504,11 @@
     <city>Commerce</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.961</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49496</id>
@@ -519,11 +519,11 @@
     <city>Diboll</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.962</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49044</id>
@@ -534,11 +534,11 @@
     <city>Paris</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.963</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49986</id>
@@ -549,11 +549,11 @@
     <city>Sweetwater</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.964</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49232</id>
@@ -564,11 +564,11 @@
     <city>Overton</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.965</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50390</id>
@@ -579,11 +579,11 @@
     <city>Hamlin</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.966</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50213</id>
@@ -594,11 +594,11 @@
     <city>Hamlin</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.967</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50384</id>
@@ -609,11 +609,11 @@
     <city>Haskell</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.968</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49419</id>
@@ -624,11 +624,11 @@
     <city>Haskell</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.969</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>48728</id>
@@ -639,11 +639,11 @@
     <city>Abilene</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.970</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49989</id>
@@ -654,11 +654,11 @@
     <city>Pampa</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.971</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>47601</id>
@@ -669,11 +669,11 @@
     <city>Borger</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.972</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>48189</id>
@@ -684,11 +684,11 @@
     <city>Knox City</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.973</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50539</id>
@@ -696,14 +696,14 @@
     <title>Physical Therapist Assistant (PTA)</title>
     <specialty>Physical Therapist Assistant (PTA)</specialty>
     <category>ALLIED</category>
-    <city>Knox City</city>
+    <city>Temple</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.974</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49945</id>
@@ -711,14 +711,14 @@
     <title>Speech Language Pathologist (SLP)</title>
     <specialty>Speech Language Pathologist (SLP)</specialty>
     <category>ALLIED</category>
-    <city></city>
+    <city>Jacksonville</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.975</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50214</id>
@@ -726,14 +726,14 @@
     <title>Speech Language Pathologist (SLP)</title>
     <specialty>Speech Language Pathologist (SLP)</specialty>
     <category>ALLIED</category>
-    <city></city>
+    <city>Hamlin</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.976</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49148</id>
@@ -741,14 +741,14 @@
     <title>Speech Language Pathologist (SLP)</title>
     <specialty>Speech Language Pathologist (SLP)</specialty>
     <category>ALLIED</category>
-    <city></city>
+    <city>Palestine</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.977</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50426</id>
@@ -756,14 +756,14 @@
     <title>Speech Language Pathologist (SLP)</title>
     <specialty>Speech Language Pathologist (SLP)</specialty>
     <category>ALLIED</category>
-    <city></city>
+    <city>Temple</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.978</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50391</id>
@@ -771,14 +771,14 @@
     <title>Speech Language Pathologist (SLP)</title>
     <specialty>Speech Language Pathologist (SLP)</specialty>
     <category>ALLIED</category>
-    <city></city>
+    <city>Hamlin</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.979</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49987</id>
@@ -786,14 +786,14 @@
     <title>Speech Language Pathologist (SLP)</title>
     <specialty>Speech Language Pathologist (SLP)</specialty>
     <category>ALLIED</category>
-    <city></city>
+    <city>Sweetwater</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.980</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50383</id>
@@ -801,14 +801,14 @@
     <title>Speech Language Pathologist (SLP)</title>
     <specialty>Speech Language Pathologist (SLP)</specialty>
     <category>ALLIED</category>
-    <city></city>
+    <city>Haskell</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.981</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49233</id>
@@ -816,14 +816,14 @@
     <title>Speech Language Pathologist (SLP)</title>
     <specialty>Speech Language Pathologist (SLP)</specialty>
     <category>ALLIED</category>
-    <city></city>
+    <city>Haskell</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.982</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49453</id>
@@ -831,14 +831,14 @@
     <title>Speech Language Pathologist (SLP)</title>
     <specialty>Speech Language Pathologist (SLP)</specialty>
     <category>ALLIED</category>
-    <city></city>
+    <city>Childress</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.983</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50515</id>
@@ -846,14 +846,14 @@
     <title>Speech Language Pathologist (SLP)</title>
     <specialty>Speech Language Pathologist (SLP)</specialty>
     <category>ALLIED</category>
-    <city></city>
+    <city>Paris</city>
     <state>TX</state>
     <startDate>2024-07-08T02:05:37.984</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50593</id>
