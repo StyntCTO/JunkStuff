@@ -872,17 +872,17 @@
   </job>
   <job>
     <id>50593</id>
-    <postedAt>2024-06-11T02:05:37.984</postedAt>
-    <title></title>
-    <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
-    <startDate></startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <postedAt>2024-06-11T02:05:37.985</postedAt>
+    <title>RN - Med Surg</title>
+    <specialty>RN- Med Surg</specialty>
+    <category>RN</category>
+    <city>Peterborough</city>
+    <state>NH</state>
+    <startDate>2024-07-08T02:05:37.985</startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>1954</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
 </jobs>
