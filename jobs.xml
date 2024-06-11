@@ -553,7 +553,7 @@
     <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks>13</contractLengthInWeeks>
+    <contractLengthInWeeks>perm</contractLengthInWeeks>
   </job>
   <job>
     <id>49232</id>
@@ -583,7 +583,7 @@
     <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks>13</contractLengthInWeeks>
+    <contractLengthInWeeks>Perm</contractLengthInWeeks>
   </job>
   <job>
     <id>50213</id>
@@ -613,7 +613,7 @@
     <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks>13</contractLengthInWeeks>
+    <contractLengthInWeeks>Perm</contractLengthInWeeks>
   </job>
   <job>
     <id>49419</id>
@@ -778,7 +778,7 @@
     <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks>13</contractLengthInWeeks>
+    <contractLengthInWeeks>Perm</contractLengthInWeeks>
   </job>
   <job>
     <id>49987</id>
@@ -808,7 +808,7 @@
     <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks>13</contractLengthInWeeks>
+    <contractLengthInWeeks>Perm</contractLengthInWeeks>
   </job>
   <job>
     <id>49233</id>
