@@ -870,19 +870,4 @@
     <weeklyPayRate></weeklyPayRate>
     <contractLengthInWeeks></contractLengthInWeeks>
   </job>
-  <job>
-    <id></id>
-    <postedAt></postedAt>
-    <title></title>
-    <specialty></specialty>
-    <category>ALLIED</category>
-    <city></city>
-    <state>TX</state>
-    <startDate></startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
-  </job>
 </jobs>
