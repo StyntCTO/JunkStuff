@@ -271,21 +271,6 @@
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
-    <id>45712</id>
-    <postedAt>2024-06-11T02:05:37.945</postedAt>
-    <title>RN - Med Surg</title>
-    <specialty>RN - Med Surg</specialty>
-    <category>RN</category>
-    <city>Salina</city>
-    <state>KS</state>
-    <startDate>2024-07-08T02:05:37.945</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
-    <hoursPerWeek>36</hoursPerWeek>
-    <weeklyPayRate>29 - 43</weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
-  </job>
-  <job>
     <id>50543</id>
     <postedAt>2024-06-11T02:05:37.946</postedAt>
     <title>RN - Med Surg/Tele</title>
