@@ -302,7 +302,7 @@
   </job>
   <job>
     <id></id>
-    <postedAt>2024-06-17T02:05:37.985</postedAt>
+    <postedAt>2024-06-17T02:05:37.986</postedAt>
     <title>RN - ER</title>
     <specialty>RN - ER</specialty>
     <category>RN</category>
@@ -312,12 +312,12 @@
     <shiftsPerWeek>3</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>35</hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
+    <weeklyPayRate>2000</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id></id>
-    <postedAt>2024-06-11T02:05:37.985</postedAt>
+    <postedAt>2024-06-17T02:05:37.987</postedAt>
     <title>RN - CVOR</title>
     <specialty>RN - CVOR</specialty>
     <category>RN</category>
@@ -327,12 +327,12 @@
     <shiftsPerWeek>5</shiftsPerWeek>
     <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>38</hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
+    <weeklyPayRate>2300</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id></id>
-    <postedAt>2024-06-11T02:05:37.985</postedAt>
+    <postedAt>2024-06-17T02:05:37.988</postedAt>
     <title>CT Tech</title>
     <specialty>CT Tech</specialty>
     <category>ALLIED</category>
@@ -342,12 +342,12 @@
     <shiftsPerWeek>3</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>35</hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
+    <weeklyPayRate>2300</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id></id>
-    <postedAt>2024-06-11T02:05:37.985</postedAt>
+    <postedAt>2024-06-17T02:05:37.989</postedAt>
     <title>RN - Med Surg / Tele</title>
     <specialty>RN - Med Surg / Telemetry</specialty>
     <category>RN</category>
@@ -357,7 +357,7 @@
     <shiftsPerWeek>3</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>35</hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
+    <weeklyPayRate>2000</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
 </jobs>
