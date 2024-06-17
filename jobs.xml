@@ -300,4 +300,64 @@
     <weeklyPayRate>1954</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
+  <job>
+    <id></id>
+    <postedAt>2024-06-17T02:05:37.985</postedAt>
+    <title>RN - ER</title>
+    <specialty>RN - ER</specialty>
+    <category>RN</category>
+    <city>Sigourney</city>
+    <state>IA</state>
+    <startDate></startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>35</hoursPerWeek>
+    <weeklyPayRate></weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
+  </job>
+  <job>
+    <id></id>
+    <postedAt>2024-06-11T02:05:37.985</postedAt>
+    <title>RN - CVOR</title>
+    <specialty>RN - CVOR</specialty>
+    <category>RN</category>
+    <city>Norfolk</city>
+    <state>NE</state>
+    <startDate></startDate>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>38</hoursPerWeek>
+    <weeklyPayRate></weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
+  </job>
+  <job>
+    <id></id>
+    <postedAt>2024-06-11T02:05:37.985</postedAt>
+    <title>CT Tech</title>
+    <specialty>CT Tech</specialty>
+    <category>ALLIED</category>
+    <city>Norfolk</city>
+    <state>NE</state>
+    <startDate></startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>35</hoursPerWeek>
+    <weeklyPayRate></weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
+  </job>
+  <job>
+    <id></id>
+    <postedAt>2024-06-11T02:05:37.985</postedAt>
+    <title>RN - Med Surg / Tele</title>
+    <specialty>RN - Med Surg / Telemetry</specialty>
+    <category>RN</category>
+    <city>Ames</city>
+    <state>IA</state>
+    <startDate></startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>35</hoursPerWeek>
+    <weeklyPayRate></weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
+  </job>
 </jobs>
