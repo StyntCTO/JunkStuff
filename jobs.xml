@@ -379,7 +379,7 @@
     <id>50481</id>
     <postedAt>2024-23-11T02:05:37.952</postedAt>
     <title>Labor and Delivery</title>
-    <specialty></specialty>
+    <specialty>RN - Labor and Delivery</specialty>
     <category>RN</category>
     <city>Sioux City</city>
     <state>IA</state>
@@ -469,7 +469,7 @@
     <id>50559</id>
     <postedAt>2024-23-11T02:05:37.958</postedAt>
     <title>ICU - Intensive Care Unit</title>
-    <specialty></specialty>
+    <specialty>RN - ICU - Intensive Care Unit</specialty>
     <category>RN</category>
     <city>Petoskey</city>
     <state>MI</state>
@@ -484,7 +484,7 @@
     <id>48743</id>
     <postedAt>2024-23-11T02:05:37.959</postedAt>
     <title>Telemetry</title>
-    <specialty></specialty>
+    <specialty>RN - Telemetry</specialty>
     <category>RN</category>
     <city>Mount Clemens</city>
     <state>MI</state>
@@ -649,7 +649,7 @@
     <id>50782</id>
     <postedAt>2024-23-11T02:05:37.970</postedAt>
     <title>ICU - Intensive Care Unit</title>
-    <specialty></specialty>
+    <specialty>RN - ICU - Intensive Care Unit</specialty>
     <category>RN</category>
     <city>Keene</city>
     <state>NH</state>
@@ -694,7 +694,7 @@
     <id>50706</id>
     <postedAt>2024-23-11T02:05:37.973</postedAt>
     <title>Operating Room</title>
-    <specialty></specialty>
+    <specialty>RN - OR - Operating Room</specialty>
     <category>RN</category>
     <city>Windsor</city>
     <state>VT</state>
@@ -799,7 +799,7 @@
     <id>50806</id>
     <postedAt>2024-23-11T02:05:37.980</postedAt>
     <title>Operating Room</title>
-    <specialty></specialty>
+    <specialty>RN - OR - Operating Room</specialty>
     <category>RN</category>
     <city>Bad Axe</city>
     <state>MI</state>
@@ -814,7 +814,7 @@
     <id>50842</id>
     <postedAt>2024-23-11T02:05:37.981</postedAt>
     <title>Operating Room</title>
-    <specialty></specialty>
+    <specialty>RN - OR - Operating Room</specialty>
     <category>RN</category>
     <city>Lancaster</city>
     <state>NH</state>
@@ -949,7 +949,7 @@
     <id>49989</id>
     <postedAt>2024-23-11T02:05:37.990</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
+    <specialty>Physical Therapist</specialty>
     <category>ALLIED</category>
     <city>Pampa</city>
     <state>TX</state>
@@ -964,7 +964,7 @@
     <id>49496</id>
     <postedAt>2024-23-11T02:05:37.991</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
+    <specialty>Physical Therapist</specialty>
     <category>ALLIED</category>
     <city>Diboll</city>
     <state>TX</state>
@@ -979,7 +979,7 @@
     <id>49232</id>
     <postedAt>2024-23-11T02:05:37.992</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
+    <specialty>Physical Therapist</specialty>
     <category>ALLIED</category>
     <city>Overton</city>
     <state>TX</state>
@@ -994,7 +994,7 @@
     <id>50213</id>
     <postedAt>2024-23-11T02:05:37.993</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
+    <specialty>Physical Therapist</specialty>
     <category>ALLIED</category>
     <city>Hamlin</city>
     <state>TX</state>
@@ -1009,7 +1009,7 @@
     <id>50236</id>
     <postedAt>2024-23-11T02:05:37.994</postedAt>
     <title>Occupational Therapist</title>
-    <specialty></specialty>
+    <specialty>Occupational Therapist</specialty>
     <category>ALLIED</category>
     <city>Paris</city>
     <state>TX</state>
@@ -1024,7 +1024,7 @@
     <id>50211</id>
     <postedAt>2024-23-11T02:05:37.995</postedAt>
     <title>Occupational Therapist</title>
-    <specialty></specialty>
+    <specialty>Occupational Therapist</specialty>
     <category>ALLIED</category>
     <city>Hamlin</city>
     <state>TX</state>
@@ -1039,7 +1039,7 @@
     <id>48729</id>
     <postedAt>2024-23-11T02:05:37.996</postedAt>
     <title>Occupational Therapist</title>
-    <specialty></specialty>
+    <specialty>Occupational Therapist</specialty>
     <category>ALLIED</category>
     <city>Pampa</city>
     <state>TX</state>
@@ -1054,7 +1054,7 @@
     <id>48282</id>
     <postedAt>2024-23-11T02:05:37.997</postedAt>
     <title>Occupational Therapist</title>
-    <specialty></specialty>
+    <specialty>Occupational Therapist</specialty>
     <category>ALLIED</category>
     <city>Borger</city>
     <state>TX</state>
@@ -1429,7 +1429,7 @@
     <id>49160</id>
     <postedAt>2024-23-11T02:05:37.1022</postedAt>
     <title>PCU - Progressive Care Unit</title>
-    <specialty></specialty>
+    <specialty>RN - PCU / Stepdown</specialty>
     <category>RN</category>
     <city>Sun City</city>
     <state>AZ</state>
@@ -1444,7 +1444,7 @@
     <id>46826</id>
     <postedAt>2024-23-11T02:05:37.1023</postedAt>
     <title>PCU - Progressive Care Unit</title>
-    <specialty></specialty>
+    <specialty>RN - PCU / Stepdown</specialty>
     <category>RN</category>
     <city>Sun City West</city>
     <state>AZ</state>
@@ -1459,7 +1459,7 @@
     <id>50042</id>
     <postedAt>2024-23-11T02:05:37.1024</postedAt>
     <title>ED - Emergency Department</title>
-    <specialty></specialty>
+    <specialty>RN - ER</specialty>
     <category>RN</category>
     <city>Tucson</city>
     <state>AZ</state>
@@ -1609,7 +1609,7 @@
     <id>49895</id>
     <postedAt>2024-23-11T02:05:37.1034</postedAt>
     <title>First Assist</title>
-    <specialty></specialty>
+    <specialty>RN - First Assist</specialty>
     <category>RN</category>
     <city>Midland</city>
     <state>MI</state>
@@ -1654,7 +1654,7 @@
     <id>46761</id>
     <postedAt>2024-23-11T02:05:37.1037</postedAt>
     <title>ICU/PCU</title>
-    <specialty></specialty>
+    <specialty>RN - PCU / Stepdown</specialty>
     <category>RN</category>
     <city>Peterborough</city>
     <state>NH</state>
@@ -1759,7 +1759,7 @@
     <id>49773</id>
     <postedAt>2024-23-11T02:05:37.1044</postedAt>
     <title>Occupational Therapist</title>
-    <specialty></specialty>
+    <specialty>Occupational Therapist</specialty>
     <category>ALLIED</category>
     <city>Marshall</city>
     <state>MI</state>
@@ -1774,7 +1774,7 @@
     <id>50344</id>
     <postedAt>2024-23-11T02:05:37.1045</postedAt>
     <title>Occupational Therapist</title>
-    <specialty></specialty>
+    <specialty>Occupational Therapist</specialty>
     <category>ALLIED</category>
     <city>Alpena</city>
     <state>MI</state>
@@ -1789,7 +1789,7 @@
     <id>50544</id>
     <postedAt>2024-23-11T02:05:37.1046</postedAt>
     <title>Occupational Therapist</title>
-    <specialty></specialty>
+    <specialty>Occupational Therapist</specialty>
     <category>ALLIED</category>
     <city>West Branch</city>
     <state>MI</state>
@@ -1834,7 +1834,7 @@
     <id>48743</id>
     <postedAt>2024-23-11T02:05:37.1049</postedAt>
     <title>Telemetry</title>
-    <specialty></specialty>
+    <specialty>RN - Telemetry</specialty>
     <category>RN</category>
     <city>Mount Clemens</city>
     <state>MI</state>
@@ -1849,7 +1849,7 @@
     <id>50517</id>
     <postedAt>2024-23-11T02:05:37.1050</postedAt>
     <title>Telemetry</title>
-    <specialty></specialty>
+    <specialty>RN - Telemetry</specialty>
     <category>RN</category>
     <city>Mount Clemens</city>
     <state>MI</state>
@@ -1864,7 +1864,7 @@
     <id>50537</id>
     <postedAt>2024-23-11T02:05:37.1051</postedAt>
     <title>Telemetry</title>
-    <specialty></specialty>
+    <specialty>RN - Telemetry</specialty>
     <category>RN</category>
     <city>Mount Clemens</city>
     <state>MI</state>
@@ -1879,7 +1879,7 @@
     <id>50559</id>
     <postedAt>2024-23-11T02:05:37.1052</postedAt>
     <title>ICU - Intensive Care Unit</title>
-    <specialty></specialty>
+    <specialty>RN - ICU - Intensive Care Unit</specialty>
     <category>RN</category>
     <city>Petoskey</city>
     <state>MI</state>
@@ -1894,7 +1894,7 @@
     <id>50830</id>
     <postedAt>2024-23-11T02:05:37.1053</postedAt>
     <title>ICU - Intensive Care Unit</title>
-    <specialty></specialty>
+    <specialty>RN - ICU - Intensive Care Unit</specialty>
     <category>RN</category>
     <city>Alma</city>
     <state>MI</state>
@@ -1954,7 +1954,7 @@
     <id>50658</id>
     <postedAt>2024-23-11T02:05:37.1057</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
+    <specialty>Physical Therapist</specialty>
     <category>ALLIED</category>
     <city>Davison</city>
     <state>MI</state>
@@ -1984,7 +1984,7 @@
     <id>49026</id>
     <postedAt>2024-23-11T02:05:37.1059</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
+    <specialty>Physical Therapist</specialty>
     <category>ALLIED</category>
     <city>Marshall</city>
     <state>MI</state>
@@ -1999,7 +1999,7 @@
     <id>49895</id>
     <postedAt>2024-23-11T02:05:37.1060</postedAt>
     <title>First Assist</title>
-    <specialty></specialty>
+    <specialty>RN - First Assist</specialty>
     <category>RN</category>
     <city>Midland</city>
     <state>MI</state>
@@ -2014,7 +2014,7 @@
     <id>50690</id>
     <postedAt>2024-23-11T02:05:37.1061</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
+    <specialty>Physical Therapist</specialty>
     <category>ALLIED</category>
     <city>West Branch</city>
     <state>MI</state>
@@ -2074,7 +2074,7 @@
     <id>50770</id>
     <postedAt>2024-23-11T02:05:37.1065</postedAt>
     <title>PCU - Progressive Care Unit</title>
-    <specialty></specialty>
+    <specialty>RN - PCU / Stepdown</specialty>
     <category>RN</category>
     <city>Coos Bay</city>
     <state>OR</state>
@@ -2149,7 +2149,7 @@
     <id>50872</id>
     <postedAt>2024-23-11T02:05:37.1070</postedAt>
     <title>Clinic</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>ALLIED</category>
     <city>Newport</city>
     <state>NH</state>
@@ -2164,7 +2164,7 @@
     <id>50804</id>
     <postedAt>2024-23-11T02:05:37.1071</postedAt>
     <title>Clinic</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>ALLIED</category>
     <city>Newington</city>
     <state>NH</state>
@@ -2194,7 +2194,7 @@
     <id>48189</id>
     <postedAt>2024-23-11T02:05:37.1073</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
+    <specialty>Physical Therapist</specialty>
     <category>ALLIED</category>
     <city>Knox City</city>
     <state>TX</state>
@@ -2209,7 +2209,7 @@
     <id>51539</id>
     <postedAt>2024-23-11T02:05:37.1074</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
+    <specialty>Physical Therapist</specialty>
     <category>ALLIED</category>
     <city>Temple</city>
     <state>TX</state>
@@ -2224,7 +2224,7 @@
     <id>50576</id>
     <postedAt>2024-23-11T02:05:37.1075</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
+    <specialty>Physical Therapist</specialty>
     <category>ALLIED</category>
     <city>Claremont</city>
     <state>NH</state>
@@ -2239,7 +2239,7 @@
     <id>50709</id>
     <postedAt>2024-23-11T02:05:37.1076</postedAt>
     <title>Med Surg / Telemetry</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg / Telemetry</specialty>
     <category>RN</category>
     <city>Claremont</city>
     <state>NH</state>
@@ -2269,7 +2269,7 @@
     <id>50900</id>
     <postedAt>2024-23-11T02:05:37.1078</postedAt>
     <title>Telemetry</title>
-    <specialty></specialty>
+    <specialty>RN - Telemetry</specialty>
     <category>RN</category>
     <city>Towsond</city>
     <state>MD</state>
@@ -2284,7 +2284,7 @@
     <id>50920</id>
     <postedAt>2024-23-11T02:05:37.1079</postedAt>
     <title>Labor and Delivery</title>
-    <specialty></specialty>
+    <specialty>RN - Labor and Delivery</specialty>
     <category>RN</category>
     <city>Keene</city>
     <state>NH</state>
