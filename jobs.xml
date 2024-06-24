@@ -454,7 +454,7 @@
     <id>50635</id>
     <postedAt>2024-23-11T02:05:37.957</postedAt>
     <title>Operating Room</title>
-    <specialty></specialty>
+    <specialty>RN - OR - Operating Room</specialty>
     <category>RN</category>
     <city>Midland</city>
     <state>MI</state>
@@ -589,7 +589,7 @@
     <id>50681</id>
     <postedAt>2024-23-11T02:05:37.966</postedAt>
     <title>Registered Respiratory Therapist</title>
-    <specialty></specialty>
+    <specialty>Registered Respiratory Therapist</specialty>
     <category>ALLIED</category>
     <city>Berlin</city>
     <state>NH</state>
@@ -1069,7 +1069,7 @@
     <id>50888</id>
     <postedAt>2024-23-11T02:05:37.998</postedAt>
     <title>Cardiac Cath Lab</title>
-    <specialty></specialty>
+    <specialty>RN - Cardiac Cath Lab</specialty>
     <category>RN</category>
     <city>Weirton</city>
     <state>WV</state>
@@ -1084,7 +1084,7 @@
     <id>49991</id>
     <postedAt>2024-23-11T02:05:37.999</postedAt>
     <title>OB/GYN</title>
-    <specialty></specialty>
+    <specialty>RN - OB/GYN</specialty>
     <category>RN</category>
     <city>Sault St. Marie</city>
     <state>MI</state>
@@ -1144,7 +1144,7 @@
     <id>50665</id>
     <postedAt>2024-23-11T02:05:37.1003</postedAt>
     <title>MRI Technologist</title>
-    <specialty></specialty>
+    <specialty>MRI Tech</specialty>
     <category>ALLIED</category>
     <city>Glendale</city>
     <state>AZ</state>
@@ -1384,7 +1384,7 @@
     <id>50822</id>
     <postedAt>2024-23-11T02:05:37.1019</postedAt>
     <title>Wound Care</title>
-    <specialty></specialty>
+    <specialty>RN - Wound Care</specialty>
     <category>RN</category>
     <city>New Lenox</city>
     <state>IL</state>
@@ -1519,7 +1519,7 @@
     <id>50706</id>
     <postedAt>2024-23-11T02:05:37.1028</postedAt>
     <title>Operating Room / Outpatient</title>
-    <specialty></specialty>
+    <specialty>RN - OR - Operating Room</specialty>
     <category>RN</category>
     <city>Windsor</city>
     <state>VT</state>
@@ -1534,7 +1534,7 @@
     <id>50651</id>
     <postedAt>2024-23-11T02:05:37.1029</postedAt>
     <title>Registered Respiratory Therapist</title>
-    <specialty></specialty>
+    <specialty>Registered Respiratory Therapist</specialty>
     <category>ALLIED</category>
     <city>Madison</city>
     <state>WI</state>
@@ -1549,7 +1549,7 @@
     <id>50888</id>
     <postedAt>2024-23-11T02:05:37.1030</postedAt>
     <title>Cardiac Cath Lab</title>
-    <specialty></specialty>
+    <specialty>RN - Cardiac Cath Lab</specialty>
     <category>RN</category>
     <city>Weirton</city>
     <state>WV</state>
@@ -1684,7 +1684,7 @@
     <id>50567</id>
     <postedAt>2024-23-11T02:05:37.1039</postedAt>
     <title>Radiology Technologist</title>
-    <specialty></specialty>
+    <specialty>Radiology Technologist</specialty>
     <category>ALLIED</category>
     <city>Bay City</city>
     <state>MI</state>
@@ -1699,7 +1699,7 @@
     <id>50890</id>
     <postedAt>2024-23-11T02:05:37.1040</postedAt>
     <title>Ultrasound Technologist</title>
-    <specialty></specialty>
+    <specialty>Ultrasound Tech</specialty>
     <category>ALLIED</category>
     <city>Alpena</city>
     <state>MI</state>
@@ -1744,7 +1744,7 @@
     <id>50612</id>
     <postedAt>2024-23-11T02:05:37.1043</postedAt>
     <title>Long Term Care</title>
-    <specialty></specialty>
+    <specialty>RN - Long Term Care</specialty>
     <category>ALLIED</category>
     <city>Petoskey</city>
     <state>MI</state>
@@ -1819,7 +1819,7 @@
     <id>50827</id>
     <postedAt>2024-23-11T02:05:37.1048</postedAt>
     <title>Radiology Technologist</title>
-    <specialty></specialty>
+    <specialty>Radiology Technologist</specialty>
     <category>ALLIED</category>
     <city>Pontiac</city>
     <state>MI</state>
@@ -1924,7 +1924,7 @@
     <id>50828</id>
     <postedAt>2024-23-11T02:05:37.1055</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
+    <specialty>Physical Therapist</specialty>
     <category>ALLIED</category>
     <city>Coldwater</city>
     <state>MI</state>
@@ -1954,7 +1954,7 @@
     <id>50658</id>
     <postedAt>2024-23-11T02:05:37.1057</postedAt>
     <title>Physical Therapist</title>
-    <specialty>Physical Therapist</specialty>
+    <specialty>RN - Wound Care</specialty>
     <category>ALLIED</category>
     <city>Davison</city>
     <state>MI</state>
@@ -1969,7 +1969,7 @@
     <id>50704</id>
     <postedAt>2024-23-11T02:05:37.1058</postedAt>
     <title>Cardiovascular Technologist</title>
-    <specialty></specialty>
+    <specialty>Cath Lab Tech</specialty>
     <category>ALLIED</category>
     <city>Flint</city>
     <state>MI</state>
@@ -2029,7 +2029,7 @@
     <id>50855</id>
     <postedAt>2024-23-11T02:05:37.1062</postedAt>
     <title>Infection Control</title>
-    <specialty></specialty>
+    <specialty>RN - Infection Control</specialty>
     <category>RN</category>
     <city>Coos Bay</city>
     <state>OR</state>
@@ -2044,7 +2044,7 @@
     <id>50785</id>
     <postedAt>2024-23-11T02:05:37.1063</postedAt>
     <title>Psychiatric</title>
-    <specialty></specialty>
+    <specialty>RN - Psychiatric</specialty>
     <category>RN</category>
     <city>Coos Bay</city>
     <state>OR</state>
@@ -2119,7 +2119,7 @@
     <id>50695</id>
     <postedAt>2024-23-11T02:05:37.1068</postedAt>
     <title>MRI Technologist</title>
-    <specialty></specialty>
+    <specialty>MRI Tech</specialty>
     <category>ALLIED</category>
     <city>Lewisburg</city>
     <state>PA</state>
@@ -2134,8 +2134,8 @@
     <id>50887</id>
     <postedAt>2024-23-11T02:05:37.1069</postedAt>
     <title>Long Term Care</title>
-    <specialty></specialty>
-    <category>ALLIED</category>
+    <specialty>RN - Long Term Care</specialty>
+    <category>RN</category>
     <city>Claremont</city>
     <state>NH</state>
     <startDate>2024-07-08T02:05:37.1108</startDate>
@@ -2179,8 +2179,8 @@
     <id>50318</id>
     <postedAt>2024-23-11T02:05:37.1072</postedAt>
     <title>Clinical Coordinator</title>
-    <specialty></specialty>
-    <category>ALLIED</category>
+    <specialty>RN - Clinical</specialty>
+    <category>RN</category>
     <city>New London</city>
     <state>NH</state>
     <startDate>2024-07-08T02:05:37.1111</startDate>
