@@ -3,7 +3,7 @@
   <job>
     <id>46047</id>
     <postedAt>2024-06-11T02:05:37.927</postedAt>
-    <title>PCU - Progressive Care Unit</title>
+    <title>RN - PCU / Stepdown</title>
     <specialty>RN - PCU / Stepdown</specialty>
     <category>RN</category>
     <city>Tucson</city>
@@ -18,7 +18,7 @@
   <job>
     <id>46826</id>
     <postedAt>2024-06-11T02:05:37.928</postedAt>
-    <title>PCU - Progressive Care Unit</title>
+    <title>RN - PCU / Stepdown</title>
     <specialty>RN - PCU / Stepdown</specialty>
     <category>RN</category>
     <city>Sun City West</city>
@@ -33,7 +33,7 @@
   <job>
     <id>48671</id>
     <postedAt>2024-06-11T02:05:37.929</postedAt>
-    <title>PCU - Progressive Care Unit</title>
+    <title>RN - PCU / Stepdown</title>
     <specialty>RN - PCU / Stepdown</specialty>
     <category>RN</category>
     <city>Glendale</city>
@@ -48,7 +48,7 @@
   <job>
     <id>49439</id>
     <postedAt>2024-06-11T02:05:37.930</postedAt>
-    <title>PCU - Progressive Care Unit</title>
+    <title>RN - PCU / Stepdown</title>
     <specialty>RN - PCU / Stepdown</specialty>
     <category>RN</category>
     <city>Sun City</city>
@@ -63,7 +63,7 @@
   <job>
     <id>49180</id>
     <postedAt>2024-06-11T02:05:37.931</postedAt>
-    <title>PCU - Progressive Care Unit</title>
+    <title>RN - PCU / Stepdown</title>
     <specialty>RN - PCU / Stepdown</specialty>
     <category>RN</category>
     <city>Mesa</city>
@@ -78,7 +78,7 @@
   <job>
     <id>50309</id>
     <postedAt>2024-06-11T02:05:37.932</postedAt>
-    <title>Float</title>
+    <title>RN - Float</title>
     <specialty>RN - Float</specialty>
     <category>RN</category>
     <city>Pontiac</city>
@@ -93,7 +93,7 @@
   <job>
     <id>49998</id>
     <postedAt>2024-06-11T02:05:37.933</postedAt>
-    <title>CVICU</title>
+    <title>RN - CVICU</title>
     <specialty>RN - CVICU</specialty>
     <category>RN</category>
     <city>Petosky</city>
@@ -108,7 +108,7 @@
   <job>
     <id>50423</id>
     <postedAt>2024-06-11T02:05:37.934</postedAt>
-    <title>Med Surg</title>
+    <title>RN - Med Surg</title>
     <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Marshall</city>
@@ -138,7 +138,7 @@
   <job>
     <id>50305</id>
     <postedAt>2024-06-11T02:05:37.936</postedAt>
-    <title>Long Term Care</title>
+    <title>RN - Long Term Care</title>
     <specialty>RN - Long Term Care</specialty>
     <category>RN</category>
     <city>Bellaire</city>
@@ -153,7 +153,7 @@
   <job>
     <id>50258</id>
     <postedAt>2024-06-11T02:05:37.937</postedAt>
-    <title>Med Surg</title>
+    <title>RN - Med Surg</title>
     <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Tucson</city>
@@ -168,7 +168,7 @@
   <job>
     <id>50564</id>
     <postedAt>2024-06-11T02:05:37.938</postedAt>
-    <title>Med Surg</title>
+    <title>RN - Med Surg</title>
     <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Des Moines</city>
@@ -183,7 +183,7 @@
   <job>
     <id>50255</id>
     <postedAt>2024-06-11T02:05:37.939</postedAt>
-    <title>Med Surg</title>
+    <title>RN - Med Surg</title>
     <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Tucson</city>
@@ -198,7 +198,7 @@
   <job>
     <id>50042</id>
     <postedAt>2024-06-11T02:05:37.940</postedAt>
-    <title>ED - Emergency Department</title>
+    <title>RN - Emergency Room</title>
     <specialty>RN - Emergency Room</specialty>
     <category>RN</category>
     <city>Tucson</city>
@@ -213,7 +213,7 @@
   <job>
     <id>50280</id>
     <postedAt>2024-06-11T02:05:37.941</postedAt>
-    <title>Med Surg / Telemetry</title>
+    <title>RN - Med Surg / Telemetry</title>
     <specialty>RN - Med Surg / Telemetry</specialty>
     <category>RN</category>
     <city>Waterloo</city>
@@ -228,7 +228,7 @@
   <job>
     <id>50451</id>
     <postedAt>2024-06-11T02:05:37.942</postedAt>
-    <title>Med Surg / Telemetry</title>
+    <title>RN - Med Surg / Telemetry</title>
     <specialty>RN - Med Surg / Telemetry</specialty>
     <category>RN</category>
     <city>Rock Island</city>
@@ -243,7 +243,7 @@
   <job>
     <id>50588</id>
     <postedAt>2024-06-11T02:05:37.943</postedAt>
-    <title>Med Surg</title>
+    <title>RN - Med Surg</title>
     <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Mattoon</city>
@@ -258,7 +258,7 @@
   <job>
     <id>49441</id>
     <postedAt>2024-06-11T02:05:37.944</postedAt>
-    <title>Cath Lab Technologist</title>
+    <title>Cath Lab Tech</title>
     <specialty>Cath Lab Tech</specialty>
     <category>ALLIED</category>
     <city>Mesa</city>
@@ -273,7 +273,7 @@
   <job>
     <id>50543</id>
     <postedAt>2024-06-11T02:05:37.946</postedAt>
-    <title>Med Surg / Telemetry</title>
+    <title>RN - Med Surg/Telemetry</title>
     <specialty>RN - Med Surg/Telemetry</specialty>
     <category>RN</category>
     <city>Lima</city>
@@ -288,7 +288,7 @@
   <job>
     <id>50593</id>
     <postedAt>2024-06-11T02:05:37.985</postedAt>
-    <title>Med Surg</title>
+    <title>RN - Med Surg</title>
     <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Peterborough</city>
@@ -303,61 +303,61 @@
   <job>
     <id>50482</id>
     <postedAt>2024-06-17T02:05:37.986</postedAt>
-    <title>Interventional Radiology Technologist</title>
+    <title>RN - ER</title>
     <specialty>RN - ER</specialty>
-    <category>RN</category>
-    <city>Sigourney</city>
+    <category>ALLIED</category>
+    <city>Waterloo</city>
     <state>IA</state>
     <startDate></startDate>
     <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
-    <hoursPerWeek>35</hoursPerWeek>
-    <weeklyPayRate>2000</weeklyPayRate>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2860</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50463</id>
     <postedAt>2024-06-17T02:05:37.987</postedAt>
-    <title>Echo Technologist</title>
+    <title>RN - CVOR</title>
     <specialty>RN - CVOR</specialty>
-    <category>RN</category>
-    <city>Norfolk</city>
-    <state>NE</state>
+    <category>ALLIED</category>
+    <city>Waterloo</city>
+    <state>IA</state>
     <startDate></startDate>
     <shiftsPerWeek>5</shiftsPerWeek>
     <hoursPerShift>8</hoursPerShift>
-    <hoursPerWeek>38</hoursPerWeek>
-    <weeklyPayRate>2300</weeklyPayRate>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2650</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50459</id>
     <postedAt>2024-06-17T02:05:37.988</postedAt>
-    <title>Interventional Radiology Technologist</title>
+    <title>CT Tech</title>
     <specialty>CT Tech</specialty>
     <category>ALLIED</category>
-    <city>Norfolk</city>
-    <state>NE</state>
+    <city>Cedar Rapids</city>
+    <state>IA</state>
     <startDate></startDate>
     <shiftsPerWeek>3</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
-    <hoursPerWeek>35</hoursPerWeek>
-    <weeklyPayRate>2300</weeklyPayRate>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2600</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50458</id>
     <postedAt>2024-06-17T02:05:37.989</postedAt>
-    <title>Echo Technologist</title>
+    <title>RN - Med Surg / Telemetry</title>
     <specialty>RN - Med Surg / Telemetry</specialty>
-    <category>RN</category>
-    <city>Ames</city>
+    <category>ALLIED</category>
+    <city>Cedar Rapids</city>
     <state>IA</state>
     <startDate></startDate>
     <shiftsPerWeek>3</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
-    <hoursPerWeek>35</hoursPerWeek>
-    <weeklyPayRate>2000</weeklyPayRate>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2400</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
@@ -365,1934 +365,1934 @@
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Des Moines</city>
+    <state>IA</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2850</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50481</id>
     <postedAt></postedAt>
     <title>Labor and Delivery</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Sioux City</city>
+    <state>IA</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2170</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50485</id>
     <postedAt></postedAt>
     <title>Ultrasound Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Marshalltown</city>
+    <state>IA</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2650</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49147</id>
     <postedAt></postedAt>
     <title>Speech Language Pathologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Marshall</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2400</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50652</id>
     <postedAt></postedAt>
     <title>CT Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Sault St. Marie</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2600</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50810</id>
     <postedAt></postedAt>
     <title>X-Ray Technician</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Alpena</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2360</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50635</id>
     <postedAt></postedAt>
     <title>Operating Room</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Midland</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2480</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50559</id>
     <postedAt></postedAt>
     <title>ICU - Intensive Care Unit</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Petoskey</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2100</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>48743</id>
     <postedAt></postedAt>
     <title>Telemetry</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Mount Clemens</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2060</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50305</id>
     <postedAt></postedAt>
     <title>Long Term Care</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Bellaire</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2000</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49998</id>
     <postedAt></postedAt>
     <title>PCU - Progressive Care Unit</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Petoskey</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2100</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50751</id>
     <postedAt></postedAt>
     <title>Speech Language Pathologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Wildwood</city>
+    <state>MO</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2250</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50580</id>
     <postedAt></postedAt>
     <title>Speech Language Pathologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Town & Country</city>
+    <state>MO</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2250</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49908</id>
     <postedAt></postedAt>
     <title>Speech Language Pathologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Saint Joseph</city>
+    <state>MO</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2340</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49460</id>
     <postedAt></postedAt>
     <title>CT Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Ogallala</city>
+    <state>NE</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2270</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50681</id>
     <postedAt></postedAt>
     <title>Registered Respiratory Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Berlin</city>
+    <state>NH</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2150</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49639</id>
     <postedAt></postedAt>
     <title>CT Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Claremont</city>
+    <state>NH</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2500</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50781</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Keene</city>
+    <state>NH</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2150</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50789</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Peterborough</city>
+    <state>NH</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2150</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50782</id>
     <postedAt></postedAt>
     <title>ICU - Intensive Care Unit</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Keene</city>
+    <state>NH</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2150</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50695</id>
     <postedAt></postedAt>
     <title>MRI Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Lewisburg</city>
+    <state>PA</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2680</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50550</id>
     <postedAt></postedAt>
     <title>CT Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Springfield</city>
+    <state>VT</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>32</hoursPerWeek>
+    <weeklyPayRate>2130</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50706</id>
     <postedAt></postedAt>
     <title>Operating Room</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Windsor</city>
+    <state>VT</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2560</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49901</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Windsor</city>
+    <state>VT</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2240</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50277</id>
     <postedAt></postedAt>
     <title>Med Surg / Telemetry</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Springfield</city>
+    <state>VT</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2270</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50737</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Weirton</city>
+    <state>WV</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2000</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50499</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Casper</city>
+    <state>WY</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2060</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50653</id>
     <postedAt></postedAt>
     <title>Cath Lab Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Madison</city>
+    <state>WI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2760</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50834</id>
     <postedAt></postedAt>
     <title>Med Surg / Telemetry</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Lima</city>
+    <state>OH</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2070</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50806</id>
     <postedAt></postedAt>
     <title>Operating Room</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Bad Axe</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2310</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50842</id>
     <postedAt></postedAt>
     <title>Operating Room</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Lancaster</city>
+    <state>NH</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2760</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49453</id>
     <postedAt></postedAt>
     <title>Speech Language Pathologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Childress</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2400</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49987</id>
     <postedAt></postedAt>
     <title>Speech Language Pathologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Sweetwater</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2400</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49233</id>
     <postedAt></postedAt>
     <title>Speech Language Pathologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Haskell</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2400</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49945</id>
     <postedAt></postedAt>
     <title>Speech Language Pathologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Jacksonville</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2400</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50813</id>
     <postedAt></postedAt>
     <title>Speech Language Pathologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Abilene</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2400</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50515</id>
     <postedAt></postedAt>
     <title>Speech Language Pathologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Paris</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2400</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50214</id>
     <postedAt></postedAt>
     <title>Speech Language Pathologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Hamlin</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2400</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49148</id>
     <postedAt></postedAt>
     <title>Speech Language Pathologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Palestine</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2400</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49989</id>
     <postedAt></postedAt>
     <title>Physical Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Pampa</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2280</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49496</id>
     <postedAt></postedAt>
     <title>Physical Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Diboll</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2240</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49232</id>
     <postedAt></postedAt>
     <title>Physical Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Overton</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2200</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50213</id>
     <postedAt></postedAt>
     <title>Physical Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Hamlin</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2200</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50236</id>
     <postedAt></postedAt>
     <title>Occupational Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Paris</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2200</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50211</id>
     <postedAt></postedAt>
     <title>Occupational Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Hamlin</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2150</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>48729</id>
     <postedAt></postedAt>
     <title>Occupational Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Pampa</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2150</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>48282</id>
     <postedAt></postedAt>
     <title>Occupational Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Borger</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2150</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50888</id>
     <postedAt></postedAt>
     <title>Cardiac Cath Lab</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Weirton</city>
+    <state>WV</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2530</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49991</id>
     <postedAt></postedAt>
     <title>OB/GYN</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Sault St. Marie</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2240</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50864</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Mattoon</city>
+    <state>IL</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2250</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50847</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Coos Bay</city>
+    <state>OR</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2223</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50845</id>
     <postedAt></postedAt>
     <title>PCU - Progressive Care Unit</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Pittsfield</city>
+    <state>MA</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2106</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50665</id>
     <postedAt></postedAt>
     <title>MRI Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Glendale</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2366</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50728</id>
     <postedAt></postedAt>
     <title>CT Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Glendale</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2474</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50726</id>
     <postedAt></postedAt>
     <title>CT Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Glendale</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2474</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50727</id>
     <postedAt></postedAt>
     <title>CT Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Glendale</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2718</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50733</id>
     <postedAt></postedAt>
     <title>CT Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Glendale</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2474</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50725</id>
     <postedAt></postedAt>
     <title>CT Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Sun City West</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2474</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50724</id>
     <postedAt></postedAt>
     <title>CT Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Sun City West</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2474</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50879</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Tucson</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2008</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50835</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Tucson</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2008</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50338</id>
     <postedAt></postedAt>
     <title>Nuclear Medicine Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Tucson</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2488</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49595</id>
     <postedAt></postedAt>
     <title>ED - Emergency Department</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Tucson</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2224</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50710</id>
     <postedAt></postedAt>
     <title>ED - Emergency Department</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Phoenix</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2258</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50703</id>
     <postedAt></postedAt>
     <title>PCU - Progressive Care Unit</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Phoenix</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2258</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50708</id>
     <postedAt></postedAt>
     <title>ED - Emergency Department</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Sun City West</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2258</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49439</id>
     <postedAt></postedAt>
     <title>ED - Emergency Department</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Sun City</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2258</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50774</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Rock Island</city>
+    <state>IL</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2130</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50822</id>
     <postedAt></postedAt>
     <title>Wound Care</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>New Lenox</city>
+    <state>IL</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2250</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>46047</id>
     <postedAt></postedAt>
     <title>PCU - Progressive Care Unit</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Tucson</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2332</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50786</id>
     <postedAt></postedAt>
     <title>Med Surg / Telemetry</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Vandalia</city>
+    <state>IL</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2246</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49160</id>
     <postedAt></postedAt>
     <title>PCU - Progressive Care Unit</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Sun City</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2258</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>46826</id>
     <postedAt></postedAt>
     <title>PCU - Progressive Care Unit</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Sun City West</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2258</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50042</id>
     <postedAt></postedAt>
     <title>ED - Emergency Department</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Tucson</city>
+    <state>AZ</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2224</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50550</id>
     <postedAt></postedAt>
     <title>CT Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Springfield</city>
+    <state>VT</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2684</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50277</id>
     <postedAt></postedAt>
     <title>Med Surg / Telemetry</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Springfield</city>
+    <state>VT</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2380</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49901</id>
     <postedAt></postedAt>
     <title>Rehabilitation - Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Windsor</city>
+    <state>VT</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2242</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50706</id>
     <postedAt></postedAt>
     <title>Operating Room / Outpatient</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Windsor</city>
+    <state>VT</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2350</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50651</id>
     <postedAt></postedAt>
     <title>Registered Respiratory Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Madison</city>
+    <state>WI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2028</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50888</id>
     <postedAt></postedAt>
     <title>Cardiac Cath Lab</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Weirton</city>
+    <state>WV</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2530</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50825</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Weirton</city>
+    <state>WV</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>1954</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50737</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Weirton</city>
+    <state>WV</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>1954</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50499</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Casper</city>
+    <state>WY</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>1990</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49895</id>
     <postedAt></postedAt>
     <title>First Assist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Midland</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2496</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50769</id>
     <postedAt></postedAt>
     <title>Ultrasound Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Moline</city>
+    <state>IL</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2496</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50779</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Keene</city>
+    <state>NH</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2135</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>46761</id>
     <postedAt></postedAt>
     <title>ICU/PCU</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Peterborough</city>
+    <state>NH</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2050</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49991</id>
     <postedAt></postedAt>
     <title>OB/GYN</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Sault St. Marie</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2380</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50567</id>
     <postedAt></postedAt>
     <title>Radiology Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Bay City</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2600</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50890</id>
     <postedAt></postedAt>
     <title>Ultrasound Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Alpena</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2700</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50820</id>
     <postedAt></postedAt>
     <title>Medical Lab Technician</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Marshall</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>1040</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50546</id>
     <postedAt></postedAt>
     <title>Physical Therapist Assistant</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Gladwin</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>1450</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50612</id>
     <postedAt></postedAt>
     <title>Long Term Care</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Petoskey</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>1580</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49773</id>
     <postedAt></postedAt>
     <title>Occupational Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Marshall</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>1740</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50344</id>
     <postedAt></postedAt>
     <title>Occupational Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Alpena</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>1800</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50544</id>
     <postedAt></postedAt>
     <title>Occupational Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>West Branch</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>1800</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50309</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Pontiac</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>1930</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50827</id>
     <postedAt></postedAt>
     <title>Radiology Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Pontiac</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2225</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>48743</id>
     <postedAt></postedAt>
     <title>Telemetry</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Mount Clemens</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2030</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50517</id>
     <postedAt></postedAt>
     <title>Telemetry</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Mount Clemens</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2030</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50537</id>
     <postedAt></postedAt>
     <title>Telemetry</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Mount Clemens</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2030</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50559</id>
     <postedAt></postedAt>
     <title>ICU - Intensive Care Unit</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Petoskey</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2030</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50830</id>
     <postedAt></postedAt>
     <title>ICU - Intensive Care Unit</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Alma</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2080</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50885</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Sault St. Marie</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2150</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50828</id>
     <postedAt></postedAt>
     <title>Physical Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Coldwater</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2360</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50424</id>
     <postedAt></postedAt>
     <title>CT Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Bay City</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2265</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50658</id>
     <postedAt></postedAt>
     <title>Physical Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Davison</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>1882</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50704</id>
     <postedAt></postedAt>
     <title>Cardiovascular Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Flint</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2330</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49026</id>
     <postedAt></postedAt>
     <title>Physical Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Marshall</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2480</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>49895</id>
     <postedAt></postedAt>
     <title>First Assist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Midland</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2540</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50690</id>
     <postedAt></postedAt>
     <title>Physical Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>West Branch</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2550</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50855</id>
     <postedAt></postedAt>
     <title>Infection Control</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Coos Bay</city>
+    <state>OR</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2570</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50785</id>
     <postedAt></postedAt>
     <title>Psychiatric</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Coos Bay</city>
+    <state>OR</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>1920</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50771</id>
     <postedAt></postedAt>
     <title>ED - Emergency Department</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Coos Bay</city>
+    <state>OR</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2120</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50770</id>
     <postedAt></postedAt>
     <title>PCU - Progressive Care Unit</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Coos Bay</city>
+    <state>OR</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2120</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50849</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Coos Bay</city>
+    <state>OR</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2230</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50847</id>
     <postedAt></postedAt>
     <title>Med Surg</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Coos Bay</city>
+    <state>OR</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2230</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50695</id>
     <postedAt></postedAt>
     <title>MRI Technologist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Lewisburg</city>
+    <state>PA</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2640</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50887</id>
     <postedAt></postedAt>
     <title>Long Term Care</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Claremont</city>
+    <state>NH</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>1150</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50872</id>
     <postedAt></postedAt>
     <title>Clinic</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Newport</city>
+    <state>NH</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>1290</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50804</id>
     <postedAt></postedAt>
     <title>Clinic</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Newington</city>
+    <state>NH</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>1555</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50318</id>
     <postedAt></postedAt>
     <title>Clinical Coordinator</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>New London</city>
+    <state>NH</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2400</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>48189</id>
     <postedAt></postedAt>
     <title>Physical Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Knox City</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2160</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>51539</id>
     <postedAt></postedAt>
     <title>Physical Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Temple</city>
+    <state>TX</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2160</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50576</id>
     <postedAt></postedAt>
     <title>Physical Therapist</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>ALLIED</category>
+    <city>Claremont</city>
+    <state>NH</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>8</hoursPerShift>
+    <hoursPerWeek>40</hoursPerWeek>
+    <weeklyPayRate>2400</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50709</id>
     <postedAt></postedAt>
     <title>Med Surg / Telemetry</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Claremont</city>
+    <state>NH</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2180</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50908</id>
     <postedAt></postedAt>
     <title>ED - Emergency Department</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Caro</city>
+    <state>MI</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>1905</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50900</id>
     <postedAt></postedAt>
     <title>Telemetry</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Towsond</city>
+    <state>MD</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2027</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
     <id>50920</id>
     <postedAt></postedAt>
     <title>Labor and Delivery</title>
     <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
+    <category>RN</category>
+    <city>Keene</city>
+    <state>NH</state>
     <startDate></startDate>
     <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2063</weeklyPayRate>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
 </jobs>
