@@ -198,8 +198,8 @@
   <job>
     <id>50042</id>
     <postedAt>2024-23-11T02:05:37.940</postedAt>
-    <title>RN - Emergency Room</title>
-    <specialty>RN - Emergency Room</specialty>
+    <title>RN - ER</title>
+    <specialty>RN - ER</specialty>
     <category>RN</category>
     <city>Tucson</city>
     <state>AZ</state>
@@ -364,7 +364,7 @@
     <id>50812</id>
     <postedAt>2024-23-11T02:05:37.951</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Des Moines</city>
     <state>IA</state>
@@ -409,7 +409,7 @@
     <id>49147</id>
     <postedAt>2024-23-11T02:05:37.954</postedAt>
     <title>Speech Language Pathologist</title>
-    <specialty></specialty>
+    <specialty>Speech Language Pathologist</specialty>
     <category>ALLIED</category>
     <city>Marshall</city>
     <state>MI</state>
@@ -424,7 +424,7 @@
     <id>50652</id>
     <postedAt>2024-23-11T02:05:37.955</postedAt>
     <title>CT Technologist</title>
-    <specialty></specialty>
+    <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Sault St. Marie</city>
     <state>MI</state>
@@ -514,7 +514,7 @@
     <id>49998</id>
     <postedAt>2024-23-11T02:05:37.961</postedAt>
     <title>PCU - Progressive Care Unit</title>
-    <specialty></specialty>
+    <specialty>RN - PCU / Stepdown</specialty>
     <category>RN</category>
     <city>Petoskey</city>
     <state>MI</state>
@@ -529,7 +529,7 @@
     <id>50751</id>
     <postedAt>2024-23-11T02:05:37.962</postedAt>
     <title>Speech Language Pathologist</title>
-    <specialty></specialty>
+    <specialty>Speech Language Pathologist</specialty>
     <category>ALLIED</category>
     <city>Wildwood</city>
     <state>MO</state>
@@ -544,7 +544,7 @@
     <id>50580</id>
     <postedAt>2024-23-11T02:05:37.963</postedAt>
     <title>Speech Language Pathologist</title>
-    <specialty></specialty>
+    <specialty>Speech Language Pathologist</specialty>
     <category>ALLIED</category>
     <city>Town & Country</city>
     <state>MO</state>
@@ -559,7 +559,7 @@
     <id>49908</id>
     <postedAt>2024-23-11T02:05:37.964</postedAt>
     <title>Speech Language Pathologist</title>
-    <specialty></specialty>
+    <specialty>Speech Language Pathologist</specialty>
     <category>ALLIED</category>
     <city>Saint Joseph</city>
     <state>MO</state>
@@ -574,7 +574,7 @@
     <id>49460</id>
     <postedAt>2024-23-11T02:05:37.965</postedAt>
     <title>CT Technologist</title>
-    <specialty></specialty>
+    <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Ogallala</city>
     <state>NE</state>
@@ -604,7 +604,7 @@
     <id>49639</id>
     <postedAt>2024-23-11T02:05:37.967</postedAt>
     <title>CT Technologist</title>
-    <specialty></specialty>
+    <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Claremont</city>
     <state>NH</state>
@@ -619,7 +619,7 @@
     <id>50781</id>
     <postedAt>2024-23-11T02:05:37.968</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Keene</city>
     <state>NH</state>
@@ -634,7 +634,7 @@
     <id>50789</id>
     <postedAt>2024-23-11T02:05:37.969</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Peterborough</city>
     <state>NH</state>
@@ -679,7 +679,7 @@
     <id>50550</id>
     <postedAt>2024-23-11T02:05:37.972</postedAt>
     <title>CT Technologist</title>
-    <specialty></specialty>
+    <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Springfield</city>
     <state>VT</state>
@@ -709,7 +709,7 @@
     <id>49901</id>
     <postedAt>2024-23-11T02:05:37.974</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Windsor</city>
     <state>VT</state>
@@ -724,7 +724,7 @@
     <id>50277</id>
     <postedAt>2024-23-11T02:05:37.975</postedAt>
     <title>Med Surg / Telemetry</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg / Telemetry</specialty>
     <category>RN</category>
     <city>Springfield</city>
     <state>VT</state>
@@ -739,7 +739,7 @@
     <id>50737</id>
     <postedAt>2024-23-11T02:05:37.976</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Weirton</city>
     <state>WV</state>
@@ -754,7 +754,7 @@
     <id>50499</id>
     <postedAt>2024-23-11T02:05:37.977</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Casper</city>
     <state>WY</state>
@@ -784,7 +784,7 @@
     <id>50834</id>
     <postedAt>2024-23-11T02:05:37.979</postedAt>
     <title>Med Surg / Telemetry</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg / Telemetry</specialty>
     <category>RN</category>
     <city>Lima</city>
     <state>OH</state>
@@ -829,7 +829,7 @@
     <id>49453</id>
     <postedAt>2024-23-11T02:05:37.982</postedAt>
     <title>Speech Language Pathologist</title>
-    <specialty></specialty>
+    <specialty>Speech Language Pathologist</specialty>
     <category>ALLIED</category>
     <city>Childress</city>
     <state>TX</state>
@@ -844,7 +844,7 @@
     <id>49987</id>
     <postedAt>2024-23-11T02:05:37.983</postedAt>
     <title>Speech Language Pathologist</title>
-    <specialty></specialty>
+    <specialty>Speech Language Pathologist</specialty>
     <category>ALLIED</category>
     <city>Sweetwater</city>
     <state>TX</state>
@@ -859,7 +859,7 @@
     <id>49233</id>
     <postedAt>2024-23-11T02:05:37.984</postedAt>
     <title>Speech Language Pathologist</title>
-    <specialty></specialty>
+    <specialty>Speech Language Pathologist</specialty>
     <category>ALLIED</category>
     <city>Haskell</city>
     <state>TX</state>
@@ -874,7 +874,7 @@
     <id>49945</id>
     <postedAt>2024-23-11T02:05:37.985</postedAt>
     <title>Speech Language Pathologist</title>
-    <specialty></specialty>
+    <specialty>Speech Language Pathologist</specialty>
     <category>ALLIED</category>
     <city>Jacksonville</city>
     <state>TX</state>
@@ -889,7 +889,7 @@
     <id>50813</id>
     <postedAt>2024-23-11T02:05:37.986</postedAt>
     <title>Speech Language Pathologist</title>
-    <specialty></specialty>
+    <specialty>Speech Language Pathologist</specialty>
     <category>ALLIED</category>
     <city>Abilene</city>
     <state>TX</state>
@@ -904,7 +904,7 @@
     <id>50515</id>
     <postedAt>2024-23-11T02:05:37.987</postedAt>
     <title>Speech Language Pathologist</title>
-    <specialty></specialty>
+    <specialty>Speech Language Pathologist</specialty>
     <category>ALLIED</category>
     <city>Paris</city>
     <state>TX</state>
@@ -919,7 +919,7 @@
     <id>50214</id>
     <postedAt>2024-23-11T02:05:37.988</postedAt>
     <title>Speech Language Pathologist</title>
-    <specialty></specialty>
+    <specialty>Speech Language Pathologist</specialty>
     <category>ALLIED</category>
     <city>Hamlin</city>
     <state>TX</state>
@@ -934,7 +934,7 @@
     <id>49148</id>
     <postedAt>2024-23-11T02:05:37.989</postedAt>
     <title>Speech Language Pathologist</title>
-    <specialty></specialty>
+    <specialty>Speech Language Pathologist</specialty>
     <category>ALLIED</category>
     <city>Palestine</city>
     <state>TX</state>
@@ -1099,7 +1099,7 @@
     <id>50864</id>
     <postedAt>2024-23-11T02:05:37.1000</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Mattoon</city>
     <state>IL</state>
@@ -1114,7 +1114,7 @@
     <id>50847</id>
     <postedAt>2024-23-11T02:05:37.1001</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Coos Bay</city>
     <state>OR</state>
@@ -1129,7 +1129,7 @@
     <id>50845</id>
     <postedAt>2024-23-11T02:05:37.1002</postedAt>
     <title>PCU - Progressive Care Unit</title>
-    <specialty></specialty>
+    <specialty>RN - PCU / Stepdown</specialty>
     <category>RN</category>
     <city>Pittsfield</city>
     <state>MA</state>
@@ -1159,7 +1159,7 @@
     <id>50728</id>
     <postedAt>2024-23-11T02:05:37.1004</postedAt>
     <title>CT Technologist</title>
-    <specialty></specialty>
+    <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Glendale</city>
     <state>AZ</state>
@@ -1174,7 +1174,7 @@
     <id>50726</id>
     <postedAt>2024-23-11T02:05:37.1005</postedAt>
     <title>CT Technologist</title>
-    <specialty></specialty>
+    <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Glendale</city>
     <state>AZ</state>
@@ -1189,7 +1189,7 @@
     <id>50727</id>
     <postedAt>2024-23-11T02:05:37.1006</postedAt>
     <title>CT Technologist</title>
-    <specialty></specialty>
+    <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Glendale</city>
     <state>AZ</state>
@@ -1204,7 +1204,7 @@
     <id>50733</id>
     <postedAt>2024-23-11T02:05:37.1007</postedAt>
     <title>CT Technologist</title>
-    <specialty></specialty>
+    <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Glendale</city>
     <state>AZ</state>
@@ -1219,7 +1219,7 @@
     <id>50725</id>
     <postedAt>2024-23-11T02:05:37.1008</postedAt>
     <title>CT Technologist</title>
-    <specialty></specialty>
+    <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Sun City West</city>
     <state>AZ</state>
@@ -1234,7 +1234,7 @@
     <id>50724</id>
     <postedAt>2024-23-11T02:05:37.1009</postedAt>
     <title>CT Technologist</title>
-    <specialty></specialty>
+    <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Sun City West</city>
     <state>AZ</state>
@@ -1249,7 +1249,7 @@
     <id>50879</id>
     <postedAt>2024-23-11T02:05:37.1010</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Tucson</city>
     <state>AZ</state>
@@ -1264,7 +1264,7 @@
     <id>50835</id>
     <postedAt>2024-23-11T02:05:37.1011</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Tucson</city>
     <state>AZ</state>
@@ -1294,7 +1294,7 @@
     <id>49595</id>
     <postedAt>2024-23-11T02:05:37.1013</postedAt>
     <title>ED - Emergency Department</title>
-    <specialty></specialty>
+    <specialty>RN - ER</specialty>
     <category>RN</category>
     <city>Tucson</city>
     <state>AZ</state>
@@ -1309,7 +1309,7 @@
     <id>50710</id>
     <postedAt>2024-23-11T02:05:37.1014</postedAt>
     <title>ED - Emergency Department</title>
-    <specialty></specialty>
+    <specialty>RN - ER</specialty>
     <category>RN</category>
     <city>Phoenix</city>
     <state>AZ</state>
@@ -1324,7 +1324,7 @@
     <id>50703</id>
     <postedAt>2024-23-11T02:05:37.1015</postedAt>
     <title>PCU - Progressive Care Unit</title>
-    <specialty></specialty>
+    <specialty>RN - ER</specialty>
     <category>RN</category>
     <city>Phoenix</city>
     <state>AZ</state>
@@ -1339,7 +1339,7 @@
     <id>50708</id>
     <postedAt>2024-23-11T02:05:37.1016</postedAt>
     <title>ED - Emergency Department</title>
-    <specialty></specialty>
+    <specialty>RN - ER</specialty>
     <category>RN</category>
     <city>Sun City West</city>
     <state>AZ</state>
@@ -1354,7 +1354,7 @@
     <id>49439</id>
     <postedAt>2024-23-11T02:05:37.1017</postedAt>
     <title>ED - Emergency Department</title>
-    <specialty></specialty>
+    <specialty>RN - ER</specialty>
     <category>RN</category>
     <city>Sun City</city>
     <state>AZ</state>
@@ -1369,7 +1369,7 @@
     <id>50774</id>
     <postedAt>2024-23-11T02:05:37.1018</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Rock Island</city>
     <state>IL</state>
@@ -1399,7 +1399,7 @@
     <id>46047</id>
     <postedAt>2024-23-11T02:05:37.1020</postedAt>
     <title>PCU - Progressive Care Unit</title>
-    <specialty></specialty>
+    <specialty>RN - PCU / Stepdown</specialty>
     <category>RN</category>
     <city>Tucson</city>
     <state>AZ</state>
@@ -1414,7 +1414,7 @@
     <id>50786</id>
     <postedAt>2024-23-11T02:05:37.1021</postedAt>
     <title>Med Surg / Telemetry</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg / Telemetry</specialty>
     <category>RN</category>
     <city>Vandalia</city>
     <state>IL</state>
@@ -1474,7 +1474,7 @@
     <id>50550</id>
     <postedAt>2024-23-11T02:05:37.1025</postedAt>
     <title>CT Technologist</title>
-    <specialty></specialty>
+    <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Springfield</city>
     <state>VT</state>
@@ -1489,7 +1489,7 @@
     <id>50277</id>
     <postedAt>2024-23-11T02:05:37.1026</postedAt>
     <title>Med Surg / Telemetry</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg / Telemetry</specialty>
     <category>RN</category>
     <city>Springfield</city>
     <state>VT</state>
@@ -1564,7 +1564,7 @@
     <id>50825</id>
     <postedAt>2024-23-11T02:05:37.1031</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Weirton</city>
     <state>WV</state>
@@ -1579,7 +1579,7 @@
     <id>50737</id>
     <postedAt>2024-23-11T02:05:37.1032</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Weirton</city>
     <state>WV</state>
@@ -1594,7 +1594,7 @@
     <id>50499</id>
     <postedAt>2024-23-11T02:05:37.1033</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Casper</city>
     <state>WY</state>
@@ -1639,7 +1639,7 @@
     <id>50779</id>
     <postedAt>2024-23-11T02:05:37.1036</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Keene</city>
     <state>NH</state>
@@ -1804,7 +1804,7 @@
     <id>50309</id>
     <postedAt>2024-23-11T02:05:37.1047</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Pontiac</city>
     <state>MI</state>
@@ -1909,7 +1909,7 @@
     <id>50885</id>
     <postedAt>2024-23-11T02:05:37.1054</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Sault St. Marie</city>
     <state>MI</state>
@@ -1939,7 +1939,7 @@
     <id>50424</id>
     <postedAt>2024-23-11T02:05:37.1056</postedAt>
     <title>CT Technologist</title>
-    <specialty></specialty>
+    <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Bay City</city>
     <state>MI</state>
@@ -2059,7 +2059,7 @@
     <id>50771</id>
     <postedAt>2024-23-11T02:05:37.1064</postedAt>
     <title>ED - Emergency Department</title>
-    <specialty></specialty>
+    <specialty>RN - ER</specialty>
     <category>RN</category>
     <city>Coos Bay</city>
     <state>OR</state>
@@ -2089,7 +2089,7 @@
     <id>50849</id>
     <postedAt>2024-23-11T02:05:37.1066</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Coos Bay</city>
     <state>OR</state>
@@ -2104,7 +2104,7 @@
     <id>50847</id>
     <postedAt>2024-23-11T02:05:37.1067</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Coos Bay</city>
     <state>OR</state>
@@ -2254,7 +2254,7 @@
     <id>50908</id>
     <postedAt>2024-23-11T02:05:37.1077</postedAt>
     <title>ED - Emergency Department</title>
-    <specialty></specialty>
+    <specialty>RN - ER</specialty>
     <category>RN</category>
     <city>Caro</city>
     <state>MI</state>
