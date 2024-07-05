@@ -2296,21 +2296,6 @@
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
   <job>
-    <id></id>
-    <postedAt></postedAt>
-    <title></title>
-    <specialty></specialty>
-    <category></category>
-    <city></city>
-    <state></state>
-    <startDate>2024-07-22T02:05:37.1080</startDate>
-    <shiftsPerWeek></shiftsPerWeek>
-    <hoursPerShift></hoursPerShift>
-    <hoursPerWeek></hoursPerWeek>
-    <weeklyPayRate></weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
-  </job>
-  <job>
     <id>48189</id>
     <postedAt>2024-23-11T02:05:37.1081</postedAt>
     <title>Physical Therapist</title>
@@ -2358,7 +2343,7 @@
   <job>
     <id>50709</id>
     <postedAt>2024-23-11T02:05:37.1084</postedAt>
-    <title>Med Surg / Telemetry</title>
+    <title>RN - Med Surg / Telemetry</title>
     <specialty>RN - Med Surg / Telemetry</specialty>
     <category>RN</category>
     <city>Claremont</city>
@@ -2373,7 +2358,7 @@
   <job>
     <id>50908</id>
     <postedAt>2024-23-11T02:05:37.1085</postedAt>
-    <title>ED - Emergency Department</title>
+    <title>RN - ER</title>
     <specialty>RN - ER</specialty>
     <category>RN</category>
     <city>Caro</city>
@@ -2388,7 +2373,7 @@
   <job>
     <id>50900</id>
     <postedAt>2024-23-11T02:05:37.1086</postedAt>
-    <title>Telemetry</title>
+    <title>RN - Telemetry</title>
     <specialty>RN - Telemetry</specialty>
     <category>RN</category>
     <city>Towsond</city>
@@ -2403,8 +2388,8 @@
   <job>
     <id>50920</id>
     <postedAt>2024-23-11T02:05:37.1087</postedAt>
-    <title>Labor and Delivery</title>
-    <specialty></specialty>
+    <title>RN - Labor and Delivery</title>
+    <specialty>RN - Labor and Delivery</specialty>
     <category>RN</category>
     <city>Keene</city>
     <state>NH</state>
@@ -2419,7 +2404,7 @@
     <id>48050</id>
     <postedAt>2024-23-11T02:05:37.1088</postedAt>
     <title>MRI Technologist</title>
-    <specialty></specialty>
+    <specialty>MRI Technologist</specialty>
     <category>ALLIED</category>
     <city>Grand Rapids</city>
     <state>MI</state>
@@ -2433,8 +2418,8 @@
   <job>
     <id>50318</id>
     <postedAt>2024-23-11T02:05:37.1089</postedAt>
-    <title>Case Management</title>
-    <specialty></specialty>
+    <title>RN - Case Management</title>
+    <specialty>RN - Case Management</specialty>
     <category>RN</category>
     <city>New London</city>
     <state>NH</state>
@@ -2448,8 +2433,8 @@
   <job>
     <id>51002</id>
     <postedAt>2024-23-11T02:05:37.1090</postedAt>
-    <title>Cardiac Cath Lab</title>
-    <specialty></specialty>
+    <title>RN - Cath Lab</title>
+    <specialty>RN - Cath Lab</specialty>
     <category>RN</category>
     <city>Rock Island</city>
     <state>IL</state>
@@ -2463,7 +2448,7 @@
   <job>
     <id>50996</id>
     <postedAt>2024-23-11T02:05:37.1091</postedAt>
-    <title>ICU - Intensive Care Unit</title>
+    <title>RN - ICU - Intensive Care Unit</title>
     <specialty>RN - ICU - Intensive Care Unit</specialty>
     <category>RN</category>
     <city>Rock Island</city>
@@ -2478,7 +2463,7 @@
   <job>
     <id>50962</id>
     <postedAt>2024-23-11T02:05:37.1092</postedAt>
-    <title>Med Surg</title>
+    <title>RN - Med Surg</title>
     <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Lawton</city>
@@ -2493,7 +2478,7 @@
   <job>
     <id>50988</id>
     <postedAt>2024-23-11T02:05:37.1093</postedAt>
-    <title>Med Surg</title>
+    <title>RN - Med Surg</title>
     <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Lawton</city>
@@ -2509,7 +2494,7 @@
     <id>50997</id>
     <postedAt>2024-23-11T02:05:37.1094</postedAt>
     <title>Cath Lab Technologist</title>
-    <specialty></specialty>
+    <specialty>Cath Lab Technologist</specialty>
     <category>ALLIED</category>
     <city>Madison</city>
     <state>WI</state>
@@ -2538,7 +2523,7 @@
   <job>
     <id>50986</id>
     <postedAt>2024-23-11T02:05:37.1096</postedAt>
-    <title>CT Technologist</title>
+    <title>CT Tech</title>
     <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Homer Glen</city>
@@ -2553,7 +2538,7 @@
   <job>
     <id>48051</id>
     <postedAt>2024-23-11T02:05:37.1097</postedAt>
-    <title>ED - Emergency Department</title>
+    <title>RN - ER</title>
     <specialty>RN - ER</specialty>
     <category>RN</category>
     <city>Sigourney</city>
@@ -2568,7 +2553,7 @@
   <job>
     <id>48082</id>
     <postedAt>2024-23-11T02:05:37.1098</postedAt>
-    <title>Med Surg</title>
+    <title>RN - Med Surg</title>
     <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Norfolk</city>
@@ -2583,7 +2568,7 @@
   <job>
     <id>48083</id>
     <postedAt>2024-23-11T02:05:37.1099</postedAt>
-    <title>Med Surg</title>
+    <title>RN - Med Surg</title>
     <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Norfolk</city>
@@ -2598,7 +2583,7 @@
   <job>
     <id>48084</id>
     <postedAt>2024-23-11T02:05:37.1100</postedAt>
-    <title>Med Surg</title>
+    <title>RN - Med Surg</title>
     <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Ames</city>
@@ -2613,8 +2598,8 @@
   <job>
     <id>48085</id>
     <postedAt>2024-23-11T02:05:37.1101</postedAt>
-    <title>Labor and Delivery</title>
-    <specialty></specialty>
+    <title>RN - Labor and Delivery</title>
+    <specialty>RN - Labor and Delivery</specialty>
     <category>RN</category>
     <city>Waverly</city>
     <state>IA</state>
@@ -2643,8 +2628,8 @@
   <job>
     <id>51010</id>
     <postedAt>2024-23-11T02:05:37.1103</postedAt>
-    <title>Certified Surgical Technologist</title>
-    <specialty></specialty>
+    <title>Surgical Tech</title>
+    <specialty>Surgical Tech</specialty>
     <category>ALLIED</category>
     <city>Mattoon</city>
     <state>IL</state>
@@ -2658,8 +2643,8 @@
   <job>
     <id>50975</id>
     <postedAt>2024-23-11T02:05:37.1104</postedAt>
-    <title>Behavioral Health</title>
-    <specialty></specialty>
+    <title>RN - Psych</title>
+    <specialty>RN - Psych</specialty>
     <category>RN</category>
     <city>Lawton</city>
     <state>OK</state>
@@ -2673,7 +2658,7 @@
   <job>
     <id>68058</id>
     <postedAt>2024-23-11T02:05:37.1105</postedAt>
-    <title>Special Procedures</title>
+    <title>RN - OR - Operating Room</title>
     <specialty>RN - OR - Operating Room</specialty>
     <category>RN</category>
     <city>Lawrenceville</city>
@@ -2688,8 +2673,8 @@
   <job>
     <id>68199</id>
     <postedAt>2024-23-11T02:05:37.1106</postedAt>
-    <title>Preoperative</title>
-    <specialty></specialty>
+    <title>RN - Pre-Op</title>
+    <specialty>RN - Pre-Op</specialty>
     <category>RN</category>
     <city>Atlanta</city>
     <state>GA</state>
@@ -2703,8 +2688,8 @@
   <job>
     <id>68183</id>
     <postedAt>2024-23-11T02:05:37.1107</postedAt>
-    <title>GI Lab</title>
-    <specialty></specialty>
+    <title>RN - GI Lab</title>
+    <specialty>RN - GI Lab</specialty>
     <category>RN</category>
     <city>Lawrenceville</city>
     <state>GA</state>
@@ -2718,8 +2703,8 @@
   <job>
     <id>68287</id>
     <postedAt>2024-23-11T02:05:37.1108</postedAt>
-    <title>GI Lab</title>
-    <specialty></specialty>
+    <title>RN - GI Lab</title>
+    <specialty>RN - GI Lab</specialty>
     <category>RN </category>
     <city>Duluth</city>
     <state>GA</state>
@@ -2733,7 +2718,7 @@
   <job>
     <id>68095</id>
     <postedAt>2024-23-11T02:05:37.1109</postedAt>
-    <title>Special Procedures</title>
+    <title>RN - OR - Operating Room</title>
     <specialty>RN - OR - Operating Room</specialty>
     <category>RN</category>
     <city>Canton</city>
@@ -2748,7 +2733,7 @@
   <job>
     <id>64403</id>
     <postedAt>2024-23-11T02:05:37.1110</postedAt>
-    <title>Oncology</title>
+    <title>RN - Oncology</title>
     <specialty>RN - Oncology</specialty>
     <category>RN</category>
     <city>Canton</city>
@@ -2808,7 +2793,7 @@
   <job>
     <id>109</id>
     <postedAt>2024-23-11T02:05:37.1114</postedAt>
-    <title>ED - Emergency Department</title>
+    <title>RN - ER</title>
     <specialty>RN - ER</specialty>
     <category>RN</category>
     <city>Concord</city>
@@ -2823,7 +2808,7 @@
   <job>
     <id>108</id>
     <postedAt>2024-23-11T02:05:37.1115</postedAt>
-    <title>OR - Operating Room</title>
+    <title>RN - OR - Operating Room</title>
     <specialty>RN - OR - Operating Room</specialty>
     <category>RN</category>
     <city>Concord</city>
@@ -2838,7 +2823,7 @@
   <job>
     <id>89</id>
     <postedAt>2024-23-11T02:05:37.1116</postedAt>
-    <title>Interventional Radiology Technologist</title>
+    <title>Interventional Radiology Tech</title>
     <specialty>Interventional Radiology Tech</specialty>
     <category>ALLIED</category>
     <city>Concord</city>
@@ -3423,7 +3408,7 @@
   <job>
     <id>51051</id>
     <postedAt>2024-23-11T02:05:37.1155</postedAt>
-    <title>CCU - Critical Care Unit</title>
+    <title>RN - CCU - Coronary Care</title>
     <specialty>RN - CCU - Coronary Care</specialty>
     <category>RN</category>
     <city>Weirton</city>
@@ -3438,7 +3423,7 @@
   <job>
     <id>51068</id>
     <postedAt>2024-23-11T02:05:37.1156</postedAt>
-    <title>OR - Operating Room</title>
+    <title>RN - OR - Operating Room</title>
     <specialty>RN - OR - Operating Room</specialty>
     <category>RN</category>
     <city>Lawton</city>
@@ -3453,7 +3438,7 @@
   <job>
     <id>50970</id>
     <postedAt>2024-23-11T02:05:37.1157</postedAt>
-    <title>Labor and Delivery</title>
+    <title>RN - Labor and Delivery</title>
     <specialty>RN - Labor and Delivery</specialty>
     <category>RN</category>
     <city>Greeley</city>
@@ -3468,7 +3453,7 @@
   <job>
     <id>51038</id>
     <postedAt>2024-23-11T02:05:37.1158</postedAt>
-    <title>Cath Lab   </title>
+    <title>RN - Cath Lab</title>
     <specialty>RN - Cath Lab</specialty>
     <category>RN</category>
     <city>Lawton</city>
@@ -3483,7 +3468,7 @@
   <job>
     <id>67058</id>
     <postedAt>2024-23-11T02:05:37.1159</postedAt>
-    <title>Nuclear Medicine Technologist</title>
+    <title>Nuclear Medicine Tech</title>
     <specialty>Nuclear Medicine Tech</specialty>
     <category>ALLIED</category>
     <city>Atlanta</city>
@@ -3528,7 +3513,7 @@
   <job>
     <id>50920</id>
     <postedAt>2024-23-11T02:05:37.1162</postedAt>
-    <title>Long Term Care</title>
+    <title>RN - Long Term Care</title>
     <specialty>RN - Long Term Care</specialty>
     <category>RN</category>
     <city>Ellendale</city>
@@ -3588,7 +3573,7 @@
   <job>
     <id>51151</id>
     <postedAt>2024-23-11T02:05:37.1166</postedAt>
-    <title>Med Surg / Telemetry</title>
+    <title>RN - Med Surg / Telemetry</title>
     <specialty>RN - Med Surg / Telemetry</specialty>
     <category>RN</category>
     <city>Sioux City</city>
@@ -3603,7 +3588,7 @@
   <job>
     <id>51148</id>
     <postedAt>2024-23-11T02:05:37.1167</postedAt>
-    <title>Cardiac Cath Lab</title>
+    <title>RN - Cath Lab</title>
     <specialty>RN - Cath Lab</specialty>
     <category>RN</category>
     <city>Des Moines</city>
@@ -3618,7 +3603,7 @@
   <job>
     <id>51146</id>
     <postedAt>2024-23-11T02:05:37.1168</postedAt>
-    <title>Med Surg</title>
+    <title>RN - Med Surg</title>
     <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Des Moines</city>
@@ -3633,7 +3618,7 @@
   <job>
     <id>51014</id>
     <postedAt>2024-23-11T02:05:37.1169</postedAt>
-    <title>Med Surg</title>
+    <title>RN - Med Surg</title>
     <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Rock Island</city>
@@ -3648,7 +3633,7 @@
   <job>
     <id>50995</id>
     <postedAt>2024-23-11T02:05:37.1170</postedAt>
-    <title>ED - Emergency Department</title>
+    <title>RN - ER</title>
     <specialty>RN - ER</specialty>
     <category>RN</category>
     <city>Rock Island</city>
@@ -3663,7 +3648,7 @@
   <job>
     <id>50996</id>
     <postedAt>2024-23-11T02:05:37.1171</postedAt>
-    <title>ICU - Intensive Care Unit</title>
+    <title>RN - ICU - Intensive Care Unit</title>
     <specialty>RN - ICU - Intensive Care Unit</specialty>
     <category>RN</category>
     <city>Rock Island</city>
@@ -3678,7 +3663,7 @@
   <job>
     <id>51002</id>
     <postedAt>2024-23-11T02:05:37.1172</postedAt>
-    <title>Cardiac Cath Lab</title>
+    <title>RN - Cath Lab</title>
     <specialty>RN - Cath Lab</specialty>
     <category>RN</category>
     <city>Rock Island</city>
@@ -3693,7 +3678,7 @@
   <job>
     <id>51127</id>
     <postedAt>2024-23-11T02:05:37.1173</postedAt>
-    <title>Telemetry</title>
+    <title>RN - Telemetry</title>
     <specialty>RN - Telemetry</specialty>
     <category>RN</category>
     <city>Lima</city>
@@ -3708,7 +3693,7 @@
   <job>
     <id>51144</id>
     <postedAt>2024-23-11T02:05:37.1174</postedAt>
-    <title>Operating Room</title>
+    <title>RN - OR - Operating Room</title>
     <specialty>RN - OR - Operating Room</specialty>
     <category>RN</category>
     <city>Robbinsdale</city>
@@ -3723,7 +3708,7 @@
   <job>
     <id>68646</id>
     <postedAt>2024-23-11T02:05:37.1175</postedAt>
-    <title>CT Technologist</title>
+    <title>CT Tech</title>
     <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Atlanta</city>
@@ -3738,7 +3723,7 @@
   <job>
     <id>68556</id>
     <postedAt>2024-23-11T02:05:37.1176</postedAt>
-    <title>CT Technologist</title>
+    <title>CT Tech</title>
     <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Cumming</city>
@@ -3753,7 +3738,7 @@
   <job>
     <id>68343</id>
     <postedAt>2024-23-11T02:05:37.1177</postedAt>
-    <title>Mammography Technician</title>
+    <title>Mammography Tech</title>
     <specialty>Mammography Tech</specialty>
     <category>ALLIED</category>
     <city>Lawrenceville</city>
@@ -3783,7 +3768,7 @@
   <job>
     <id>66601</id>
     <postedAt>2024-23-11T02:05:37.1179</postedAt>
-    <title>Surgical Technologist</title>
+    <title>Surgical Tech</title>
     <specialty>Surgical Tech</specialty>
     <category>ALLIED</category>
     <city>Atlanta</city>
@@ -3798,7 +3783,7 @@
   <job>
     <id>68891</id>
     <postedAt>2024-23-11T02:05:37.1180</postedAt>
-    <title>Surgical Technologist</title>
+    <title>Surgical Tech</title>
     <specialty>Surgical Tech</specialty>
     <category>ALLIED</category>
     <city>Canton</city>
@@ -3813,7 +3798,7 @@
   <job>
     <id>50926</id>
     <postedAt>2024-23-11T02:05:37.1181</postedAt>
-    <title>Long Term Care</title>
+    <title>RN - Long Term Care</title>
     <specialty>RN - Long Term Care</specialty>
     <category>RN</category>
     <city>Westphalia</city>
@@ -3828,7 +3813,7 @@
   <job>
     <id>50927</id>
     <postedAt>2024-23-11T02:05:37.1182</postedAt>
-    <title>Long Term Care</title>
+    <title>RN - Long Term Care</title>
     <specialty>RN - Long Term Care</specialty>
     <category>RN</category>
     <city>Westphalia</city>
@@ -3843,7 +3828,7 @@
   <job>
     <id>50928</id>
     <postedAt>2024-23-11T02:05:37.1183</postedAt>
-    <title>Med Surg</title>
+    <title>RN - Med Surg</title>
     <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Lynch</city>
@@ -3858,7 +3843,7 @@
   <job>
     <id>51046</id>
     <postedAt>2024-23-11T02:05:37.1184</postedAt>
-    <title>MRI Technologist</title>
+    <title>MRI Tech</title>
     <specialty>MRI Tech</specialty>
     <category>ALLIED</category>
     <city>Lebanon</city>
@@ -3873,7 +3858,7 @@
   <job>
     <id>51134</id>
     <postedAt>2024-23-11T02:05:37.1185</postedAt>
-    <title>Long Term Care</title>
+    <title>RN - Long Term Care</title>
     <specialty>RN - Long Term Care</specialty>
     <category>ALLIED</category>
     <city>Claremont</city>
@@ -3888,8 +3873,8 @@
   <job>
     <id>51034</id>
     <postedAt>2024-23-11T02:05:37.1186</postedAt>
-    <title>CCU - Critical Care Unit</title>
-    <specialty></specialty>
+    <title>RN - CCU - Coronary Care</title>
+    <specialty>RN - CCU - Coronary Care</specialty>
     <category>RN</category>
     <city>Marshall</city>
     <state>MI</state>
