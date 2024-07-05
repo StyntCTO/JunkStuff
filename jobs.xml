@@ -2314,8 +2314,8 @@
     <id>48189</id>
     <postedAt>2024-23-11T02:05:37.1081</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Knox City</city>
     <state>TX</state>
     <startDate>2024-07-22T02:05:37.1081</startDate>
@@ -2329,8 +2329,8 @@
     <id>51539</id>
     <postedAt>2024-23-11T02:05:37.1082</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Temple</city>
     <state>TX</state>
     <startDate>2024-07-22T02:05:37.1082</startDate>
@@ -2344,8 +2344,8 @@
     <id>50576</id>
     <postedAt>2024-23-11T02:05:37.1083</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Claremont</city>
     <state>NH</state>
     <startDate>2024-07-22T02:05:37.1083</startDate>
@@ -2389,7 +2389,7 @@
     <id>50900</id>
     <postedAt>2024-23-11T02:05:37.1086</postedAt>
     <title>Telemetry</title>
-    <specialty></specialty>
+    <specialty>RN - Telemetry</specialty>
     <category>RN</category>
     <city>Towsond</city>
     <state>MD</state>
@@ -2420,7 +2420,7 @@
     <postedAt>2024-23-11T02:05:37.1088</postedAt>
     <title>MRI Technologist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Grand Rapids</city>
     <state>MI</state>
     <startDate>2024-07-22T02:05:37.1088</startDate>
@@ -2464,7 +2464,7 @@
     <id>50996</id>
     <postedAt>2024-23-11T02:05:37.1091</postedAt>
     <title>ICU - Intensive Care Unit</title>
-    <specialty></specialty>
+    <specialty>RN - ICU - Intensive Care Unit</specialty>
     <category>RN</category>
     <city>Rock Island</city>
     <state>IL</state>
@@ -2479,7 +2479,7 @@
     <id>50962</id>
     <postedAt>2024-23-11T02:05:37.1092</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Lawton</city>
     <state>OK</state>
@@ -2494,8 +2494,8 @@
     <id>50988</id>
     <postedAt>2024-23-11T02:05:37.1093</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
-    <category>LPN/LVN</category>
+    <specialty>RN - Med Surg</specialty>
+    <category>RN</category>
     <city>Lawton</city>
     <state>OK</state>
     <startDate>2024-07-22T02:05:37.1093</startDate>
@@ -2510,7 +2510,7 @@
     <postedAt>2024-23-11T02:05:37.1094</postedAt>
     <title>Cath Lab Technologist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Madison</city>
     <state>WI</state>
     <startDate>2024-07-22T02:05:37.1094</startDate>
@@ -2525,7 +2525,7 @@
     <postedAt>2024-23-11T02:05:37.1095</postedAt>
     <title>Registered Respiratory Therapist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Madison</city>
     <state>WI</state>
     <startDate>2024-07-22T02:05:37.1095</startDate>
@@ -2540,7 +2540,7 @@
     <postedAt>2024-23-11T02:05:37.1096</postedAt>
     <title>CT Technologist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Homer Glen</city>
     <state>IL</state>
     <startDate>2024-07-22T02:05:37.1096</startDate>
@@ -2554,7 +2554,7 @@
     <id>48051</id>
     <postedAt>2024-23-11T02:05:37.1097</postedAt>
     <title>ED - Emergency Department</title>
-    <specialty></specialty>
+    <specialty>RN - ER</specialty>
     <category>RN</category>
     <city>Sigourney</city>
     <state>IA</state>
@@ -2569,7 +2569,7 @@
     <id>48082</id>
     <postedAt>2024-23-11T02:05:37.1098</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Norfolk</city>
     <state>NE</state>
@@ -2584,7 +2584,7 @@
     <id>48083</id>
     <postedAt>2024-23-11T02:05:37.1099</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Norfolk</city>
     <state>NE</state>
@@ -2599,7 +2599,7 @@
     <id>48084</id>
     <postedAt>2024-23-11T02:05:37.1100</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Ames</city>
     <state>IA</state>
@@ -2629,8 +2629,8 @@
     <id>51021</id>
     <postedAt>2024-23-11T02:05:37.1102</postedAt>
     <title>Physical Therapist </title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist </specialty>
+    <category>ALLIED</category>
     <city>Towson</city>
     <state>MD</state>
     <startDate>2024-07-22T02:05:37.1102</startDate>
@@ -2645,7 +2645,7 @@
     <postedAt>2024-23-11T02:05:37.1103</postedAt>
     <title>Certified Surgical Technologist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Mattoon</city>
     <state>IL</state>
     <startDate>2024-07-22T02:05:37.1103</startDate>
@@ -2764,8 +2764,8 @@
     <id>68464</id>
     <postedAt>2024-23-11T02:05:37.1111</postedAt>
     <title>Radiology Technologist</title>
-    <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <specialty>Radiology Technologist</specialty>
+    <category>ALLIED</category>
     <city>Lawrenceville</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1111</startDate>
@@ -2779,8 +2779,8 @@
     <id>68184</id>
     <postedAt>2024-23-11T02:05:37.1112</postedAt>
     <title>Radiology Technologist</title>
-    <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <specialty>Radiology Technologist</specialty>
+    <category>ALLIED</category>
     <city>Canton</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1112</startDate>
@@ -2794,8 +2794,8 @@
     <id>68088</id>
     <postedAt>2024-23-11T02:05:37.1113</postedAt>
     <title>Radiology Technologist</title>
-    <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <specialty>Radiology Technologist</specialty>
+    <category>ALLIED</category>
     <city>Cumming</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1113</startDate>
@@ -2809,7 +2809,7 @@
     <id>109</id>
     <postedAt>2024-23-11T02:05:37.1114</postedAt>
     <title>ED - Emergency Department</title>
-    <specialty></specialty>
+    <specialty>RN - ER</specialty>
     <category>RN</category>
     <city>Concord</city>
     <state>MA</state>
@@ -2840,7 +2840,7 @@
     <postedAt>2024-23-11T02:05:37.1116</postedAt>
     <title>Interventional Radiology Technologist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Concord</city>
     <state>MA</state>
     <startDate>2024-07-22T02:05:37.1116</startDate>
@@ -2854,8 +2854,8 @@
     <id>3</id>
     <postedAt>2024-23-11T02:05:37.1117</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Spokane</city>
     <state>WA</state>
     <startDate>2024-07-22T02:05:37.1117</startDate>
@@ -2869,8 +2869,8 @@
     <id>5</id>
     <postedAt>2024-23-11T02:05:37.1118</postedAt>
     <title>Speech Language Pathologist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Speech Language Pathologist</specialty>
+    <category>ALLIED</category>
     <city>Phoenix</city>
     <state>AZ</state>
     <startDate>2024-07-22T02:05:37.1118</startDate>
@@ -2884,8 +2884,8 @@
     <id>2167</id>
     <postedAt>2024-23-11T02:05:37.1119</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Morehead City</city>
     <state>NC</state>
     <startDate>2024-07-22T02:05:37.1119</startDate>
@@ -2899,8 +2899,8 @@
     <id>2323</id>
     <postedAt>2024-23-11T02:05:37.1120</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Kennewick</city>
     <state>WA</state>
     <startDate>2024-07-22T02:05:37.1120</startDate>
@@ -2914,8 +2914,8 @@
     <id>2323</id>
     <postedAt>2024-23-11T02:05:37.1121</postedAt>
     <title>Physical Therapist Assistant</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist Assistant</specialty>
+    <category>ALLIED</category>
     <city>Kennewick</city>
     <state>WA</state>
     <startDate>2024-07-22T02:05:37.1121</startDate>
@@ -2929,8 +2929,8 @@
     <id>2325</id>
     <postedAt>2024-23-11T02:05:37.1122</postedAt>
     <title>Physical Therapist Assistant</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist Assistant</specialty>
+    <category>ALLIED</category>
     <city>Richland</city>
     <state>WA</state>
     <startDate>2024-07-22T02:05:37.1122</startDate>
@@ -2944,8 +2944,8 @@
     <id>1520</id>
     <postedAt>2024-23-11T02:05:37.1123</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Gardendale</city>
     <state>AL</state>
     <startDate>2024-07-22T02:05:37.1123</startDate>
@@ -2959,8 +2959,8 @@
     <id>1667</id>
     <postedAt>2024-23-11T02:05:37.1124</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Weyers Cave</city>
     <state>VA</state>
     <startDate>2024-07-22T02:05:37.1124</startDate>
@@ -2974,8 +2974,8 @@
     <id>1667</id>
     <postedAt>2024-23-11T02:05:37.1125</postedAt>
     <title>Physical Therapist Assistant</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist Assistant</specialty>
+    <category>ALLIED</category>
     <city>Weyers Cave</city>
     <state>VA</state>
     <startDate>2024-07-22T02:05:37.1125</startDate>
@@ -2989,8 +2989,8 @@
     <id>1997</id>
     <postedAt>2024-23-11T02:05:37.1126</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Greenville</city>
     <state>VA</state>
     <startDate>2024-07-22T02:05:37.1126</startDate>
@@ -3004,8 +3004,8 @@
     <id>1997</id>
     <postedAt>2024-23-11T02:05:37.1127</postedAt>
     <title>Physical Therapist Assistant</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist Assistant</specialty>
+    <category>ALLIED</category>
     <city>Greenville</city>
     <state>VA</state>
     <startDate>2024-07-22T02:05:37.1127</startDate>
@@ -3019,8 +3019,8 @@
     <id>1653</id>
     <postedAt>2024-23-11T02:05:37.1128</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Irmo</city>
     <state>SC</state>
     <startDate>2024-07-22T02:05:37.1128</startDate>
@@ -3034,8 +3034,8 @@
     <id>1653</id>
     <postedAt>2024-23-11T02:05:37.1129</postedAt>
     <title>Physical Therapist Assistant</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist Assistant</specialty>
+    <category>ALLIED</category>
     <city>Irmo</city>
     <state>SC</state>
     <startDate>2024-07-22T02:05:37.1129</startDate>
@@ -3049,8 +3049,8 @@
     <id>1656</id>
     <postedAt>2024-23-11T02:05:37.1130</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Lexington</city>
     <state>SC</state>
     <startDate>2024-07-22T02:05:37.1130</startDate>
@@ -3064,8 +3064,8 @@
     <id>1280</id>
     <postedAt>2024-23-11T02:05:37.1131</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Silverton</city>
     <state>OR</state>
     <startDate>2024-07-22T02:05:37.1131</startDate>
@@ -3079,8 +3079,8 @@
     <id>1280</id>
     <postedAt>2024-23-11T02:05:37.1132</postedAt>
     <title>Physical Therapist Assistant</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist Assistant</specialty>
+    <category>ALLIED</category>
     <city>Silverton</city>
     <state>OR</state>
     <startDate>2024-07-22T02:05:37.1132</startDate>
@@ -3094,8 +3094,8 @@
     <id>1841</id>
     <postedAt>2024-23-11T02:05:37.1133</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Aiken</city>
     <state>SC</state>
     <startDate>2024-07-22T02:05:37.1133</startDate>
@@ -3109,8 +3109,8 @@
     <id>1841</id>
     <postedAt>2024-23-11T02:05:37.1134</postedAt>
     <title>Physical Therapist Assistant</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist Assistant</specialty>
+    <category>ALLIED</category>
     <city>Aiken</city>
     <state>SC</state>
     <startDate>2024-07-22T02:05:37.1134</startDate>
@@ -3124,8 +3124,8 @@
     <id>1426</id>
     <postedAt>2024-23-11T02:05:37.1135</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Lincoln City</city>
     <state>OR</state>
     <startDate>2024-07-22T02:05:37.1135</startDate>
@@ -3139,8 +3139,8 @@
     <id>1767</id>
     <postedAt>2024-23-11T02:05:37.1136</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Molalla</city>
     <state>OR</state>
     <startDate>2024-07-22T02:05:37.1136</startDate>
@@ -3154,8 +3154,8 @@
     <id>2361</id>
     <postedAt>2024-23-11T02:05:37.1137</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Orange Beach</city>
     <state>AL</state>
     <startDate>2024-07-22T02:05:37.1137</startDate>
@@ -3169,8 +3169,8 @@
     <id>1322</id>
     <postedAt>2024-23-11T02:05:37.1138</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Concord</city>
     <state>NC</state>
     <startDate>2024-07-22T02:05:37.1138</startDate>
@@ -3184,8 +3184,8 @@
     <id>1322</id>
     <postedAt>2024-23-11T02:05:37.1139</postedAt>
     <title>Physical Therapist Assistant</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist Assistant</specialty>
+    <category>ALLIED</category>
     <city>Concord</city>
     <state>NC</state>
     <startDate>2024-07-22T02:05:37.1139</startDate>
@@ -3199,8 +3199,8 @@
     <id>1869</id>
     <postedAt>2024-23-11T02:05:37.1140</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Columbia</city>
     <state>SC</state>
     <startDate>2024-07-22T02:05:37.1140</startDate>
@@ -3214,8 +3214,8 @@
     <id>1510</id>
     <postedAt>2024-23-11T02:05:37.1141</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Jasper</city>
     <state>AL</state>
     <startDate>2024-07-22T02:05:37.1141</startDate>
@@ -3229,8 +3229,8 @@
     <id>1838</id>
     <postedAt>2024-23-11T02:05:37.1142</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Elgin</city>
     <state>SC</state>
     <startDate>2024-07-22T02:05:37.1142</startDate>
@@ -3244,8 +3244,8 @@
     <id>1655</id>
     <postedAt>2024-23-11T02:05:37.1143</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Columbia</city>
     <state>SC</state>
     <startDate>2024-07-22T02:05:37.1143</startDate>
@@ -3259,8 +3259,8 @@
     <id>1655</id>
     <postedAt>2024-23-11T02:05:37.1144</postedAt>
     <title>Physical Therapist Assistant</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist Assistant</specialty>
+    <category>ALLIED</category>
     <city>Columbia</city>
     <state>SC</state>
     <startDate>2024-07-22T02:05:37.1144</startDate>
@@ -3274,8 +3274,8 @@
     <id>1459</id>
     <postedAt>2024-23-11T02:05:37.1145</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Silverdale</city>
     <state>WA</state>
     <startDate>2024-07-22T02:05:37.1145</startDate>
@@ -3289,8 +3289,8 @@
     <id>1459</id>
     <postedAt>2024-23-11T02:05:37.1146</postedAt>
     <title>Physical Therapist Assistant</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist Assistant</specialty>
+    <category>ALLIED</category>
     <city>Silverdale</city>
     <state>WA</state>
     <startDate>2024-07-22T02:05:37.1146</startDate>
@@ -3304,8 +3304,8 @@
     <id>2121</id>
     <postedAt>2024-23-11T02:05:37.1147</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Birmingham</city>
     <state>AL</state>
     <startDate>2024-07-22T02:05:37.1147</startDate>
@@ -3319,8 +3319,8 @@
     <id>1268</id>
     <postedAt>2024-23-11T02:05:37.1148</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Grants Pass</city>
     <state>OR</state>
     <startDate>2024-07-22T02:05:37.1148</startDate>
@@ -3334,8 +3334,8 @@
     <id>2151</id>
     <postedAt>2024-23-11T02:05:37.1149</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Fayetteville</city>
     <state>NC</state>
     <startDate>2024-07-22T02:05:37.1149</startDate>
@@ -3349,8 +3349,8 @@
     <id>2208</id>
     <postedAt>2024-23-11T02:05:37.1150</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Cincinnati</city>
     <state>OH</state>
     <startDate>2024-07-22T02:05:37.1150</startDate>
@@ -3364,8 +3364,8 @@
     <id>1132</id>
     <postedAt>2024-23-11T02:05:37.1151</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Warrensburg</city>
     <state>MO</state>
     <startDate>2024-07-22T02:05:37.1151</startDate>
@@ -3379,8 +3379,8 @@
     <id>1242</id>
     <postedAt>2024-23-11T02:05:37.1152</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Independence</city>
     <state>MO</state>
     <startDate>2024-07-22T02:05:37.1152</startDate>
@@ -3394,8 +3394,8 @@
     <id>2075</id>
     <postedAt>2024-23-11T02:05:37.1153</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Memphis</city>
     <state>TN</state>
     <startDate>2024-07-22T02:05:37.1153</startDate>
@@ -3409,8 +3409,8 @@
     <id>2022</id>
     <postedAt>2024-23-11T02:05:37.1154</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Gallatin</city>
     <state>TN</state>
     <startDate>2024-07-22T02:05:37.1154</startDate>
@@ -3485,7 +3485,7 @@
     <postedAt>2024-23-11T02:05:37.1159</postedAt>
     <title>Nuclear Medicine Technologist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Atlanta</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1159</startDate>
@@ -3500,7 +3500,7 @@
     <postedAt>2024-23-11T02:05:37.1160</postedAt>
     <title>MRI Technologist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Atlanta</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1160</startDate>
@@ -3514,8 +3514,8 @@
     <id>1783</id>
     <postedAt>2024-23-11T02:05:37.1161</postedAt>
     <title>Physical Therapist</title>
-    <specialty></specialty>
-    <category>Therapy</category>
+    <specialty>Physical Therapist</specialty>
+    <category>ALLIED</category>
     <city>Hilton Head</city>
     <state>SC</state>
     <startDate>2024-07-22T02:05:37.1161</startDate>
@@ -3529,8 +3529,8 @@
     <id>50920</id>
     <postedAt>2024-23-11T02:05:37.1162</postedAt>
     <title>Long Term Care</title>
-    <specialty></specialty>
-    <category>LPN/LVN</category>
+    <specialty>RN - Long Term Care</specialty>
+    <category>RN</category>
     <city>Ellendale</city>
     <state>ND</state>
     <startDate>2024-07-22T02:05:37.1162</startDate>
@@ -3545,7 +3545,7 @@
     <postedAt>2024-23-11T02:05:37.1163</postedAt>
     <title>Registered Respiratory Therapist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Cincinnati</city>
     <state>OH</state>
     <startDate>2024-07-22T02:05:37.1163</startDate>
@@ -3560,7 +3560,7 @@
     <postedAt>2024-23-11T02:05:37.1164</postedAt>
     <title>Registered Respiratory Therapist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Cleveland</city>
     <state>OH</state>
     <startDate>2024-07-22T02:05:37.1164</startDate>
@@ -3575,7 +3575,7 @@
     <postedAt>2024-23-11T02:05:37.1165</postedAt>
     <title>Registered Respiratory Therapist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Fremont</city>
     <state>OH</state>
     <startDate>2024-07-22T02:05:37.1165</startDate>
@@ -3589,7 +3589,7 @@
     <id>51151</id>
     <postedAt>2024-23-11T02:05:37.1166</postedAt>
     <title>Med Surg / Telemetry</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg / Telemetry</specialty>
     <category>RN</category>
     <city>Sioux City</city>
     <state>IA</state>
@@ -3619,7 +3619,7 @@
     <id>51146</id>
     <postedAt>2024-23-11T02:05:37.1168</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Des Moines</city>
     <state>IA</state>
@@ -3634,7 +3634,7 @@
     <id>51014</id>
     <postedAt>2024-23-11T02:05:37.1169</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Rock Island</city>
     <state>IL</state>
@@ -3649,7 +3649,7 @@
     <id>50995</id>
     <postedAt>2024-23-11T02:05:37.1170</postedAt>
     <title>ED - Emergency Department</title>
-    <specialty></specialty>
+    <specialty>RN - ER</specialty>
     <category>RN</category>
     <city>Rock Island</city>
     <state>IL</state>
@@ -3664,7 +3664,7 @@
     <id>50996</id>
     <postedAt>2024-23-11T02:05:37.1171</postedAt>
     <title>ICU - Intensive Care Unit</title>
-    <specialty></specialty>
+    <specialty>RN - ICU - Intensive Care Unit</specialty>
     <category>RN</category>
     <city>Rock Island</city>
     <state>IL</state>
@@ -3694,7 +3694,7 @@
     <id>51127</id>
     <postedAt>2024-23-11T02:05:37.1173</postedAt>
     <title>Telemetry</title>
-    <specialty></specialty>
+    <specialty>RN - Telemetry</specialty>
     <category>RN</category>
     <city>Lima</city>
     <state>OH</state>
@@ -3725,7 +3725,7 @@
     <postedAt>2024-23-11T02:05:37.1175</postedAt>
     <title>CT Technologist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Atlanta</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1175</startDate>
@@ -3740,7 +3740,7 @@
     <postedAt>2024-23-11T02:05:37.1176</postedAt>
     <title>CT Technologist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Cumming</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1176</startDate>
@@ -3755,7 +3755,7 @@
     <postedAt>2024-23-11T02:05:37.1177</postedAt>
     <title>Mammography Technician</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Lawrenceville</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1177</startDate>
@@ -3770,7 +3770,7 @@
     <postedAt>2024-23-11T02:05:37.1178</postedAt>
     <title>Radiology Technologist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Huntsville</city>
     <state>AL</state>
     <startDate>2024-07-22T02:05:37.1178</startDate>
@@ -3785,7 +3785,7 @@
     <postedAt>2024-23-11T02:05:37.1179</postedAt>
     <title>Surgical Technologist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Atlanta</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1179</startDate>
@@ -3800,7 +3800,7 @@
     <postedAt>2024-23-11T02:05:37.1180</postedAt>
     <title>Surgical Technologist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Canton</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1180</startDate>
@@ -3814,8 +3814,8 @@
     <id>50926</id>
     <postedAt>2024-23-11T02:05:37.1181</postedAt>
     <title>Long Term Care</title>
-    <specialty></specialty>
-    <category>LPN/LVN</category>
+    <specialty>RN - Long Term Care</specialty>
+    <category>RN</category>
     <city>Westphalia</city>
     <state>MO</state>
     <startDate>2024-07-22T02:05:37.1181</startDate>
@@ -3829,7 +3829,7 @@
     <id>50927</id>
     <postedAt>2024-23-11T02:05:37.1182</postedAt>
     <title>Long Term Care</title>
-    <specialty></specialty>
+    <specialty>RN - Long Term Care</specialty>
     <category>RN</category>
     <city>Westphalia</city>
     <state>MO</state>
@@ -3844,7 +3844,7 @@
     <id>50928</id>
     <postedAt>2024-23-11T02:05:37.1183</postedAt>
     <title>Med Surg</title>
-    <specialty></specialty>
+    <specialty>RN - Med Surg</specialty>
     <category>RN</category>
     <city>Lynch</city>
     <state>NE</state>
@@ -3860,7 +3860,7 @@
     <postedAt>2024-23-11T02:05:37.1184</postedAt>
     <title>MRI Technologist</title>
     <specialty></specialty>
-    <category>Allied Health Professional</category>
+    <category>ALLIED</category>
     <city>Lebanon</city>
     <state>NH</state>
     <startDate>2024-07-22T02:05:37.1184</startDate>
@@ -3874,8 +3874,8 @@
     <id>51134</id>
     <postedAt>2024-23-11T02:05:37.1185</postedAt>
     <title>Long Term Care</title>
-    <specialty></specialty>
-    <category>LPN/LVN</category>
+    <specialty>RN - Long Term Care</specialty>
+    <category>ALLIED</category>
     <city>Claremont</city>
     <state>NH</state>
     <startDate>2024-07-22T02:05:37.1185</startDate>
