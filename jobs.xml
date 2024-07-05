@@ -2524,7 +2524,7 @@
     <id>51013</id>
     <postedAt>2024-23-11T02:05:37.1095</postedAt>
     <title>Registered Respiratory Therapist</title>
-    <specialty></specialty>
+    <specialty>Registered Respiratory Therapist</specialty>
     <category>ALLIED</category>
     <city>Madison</city>
     <state>WI</state>
@@ -2539,7 +2539,7 @@
     <id>50986</id>
     <postedAt>2024-23-11T02:05:37.1096</postedAt>
     <title>CT Technologist</title>
-    <specialty></specialty>
+    <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Homer Glen</city>
     <state>IL</state>
@@ -2674,7 +2674,7 @@
     <id>68058</id>
     <postedAt>2024-23-11T02:05:37.1105</postedAt>
     <title>Special Procedures</title>
-    <specialty></specialty>
+    <specialty>RN - OR - Operating Room</specialty>
     <category>RN</category>
     <city>Lawrenceville</city>
     <state>GA</state>
@@ -2734,7 +2734,7 @@
     <id>68095</id>
     <postedAt>2024-23-11T02:05:37.1109</postedAt>
     <title>Special Procedures</title>
-    <specialty></specialty>
+    <specialty>RN - OR - Operating Room</specialty>
     <category>RN</category>
     <city>Canton</city>
     <state>GA</state>
@@ -2749,7 +2749,7 @@
     <id>64403</id>
     <postedAt>2024-23-11T02:05:37.1110</postedAt>
     <title>Oncology</title>
-    <specialty></specialty>
+    <specialty>RN - Oncology</specialty>
     <category>RN</category>
     <city>Canton</city>
     <state>GA</state>
@@ -2824,7 +2824,7 @@
     <id>108</id>
     <postedAt>2024-23-11T02:05:37.1115</postedAt>
     <title>OR - Operating Room</title>
-    <specialty></specialty>
+    <specialty>RN - OR - Operating Room</specialty>
     <category>RN</category>
     <city>Concord</city>
     <state>MA</state>
@@ -2839,7 +2839,7 @@
     <id>89</id>
     <postedAt>2024-23-11T02:05:37.1116</postedAt>
     <title>Interventional Radiology Technologist</title>
-    <specialty></specialty>
+    <specialty>Interventional Radiology Tech</specialty>
     <category>ALLIED</category>
     <city>Concord</city>
     <state>MA</state>
@@ -3424,7 +3424,7 @@
     <id>51051</id>
     <postedAt>2024-23-11T02:05:37.1155</postedAt>
     <title>CCU - Critical Care Unit</title>
-    <specialty></specialty>
+    <specialty>RN - CCU - Coronary Care</specialty>
     <category>RN</category>
     <city>Weirton</city>
     <state>WV</state>
@@ -3439,7 +3439,7 @@
     <id>51068</id>
     <postedAt>2024-23-11T02:05:37.1156</postedAt>
     <title>OR - Operating Room</title>
-    <specialty></specialty>
+    <specialty>RN - OR - Operating Room</specialty>
     <category>RN</category>
     <city>Lawton</city>
     <state>OK</state>
@@ -3454,7 +3454,7 @@
     <id>50970</id>
     <postedAt>2024-23-11T02:05:37.1157</postedAt>
     <title>Labor and Delivery</title>
-    <specialty></specialty>
+    <specialty>RN - Labor and Delivery</specialty>
     <category>RN</category>
     <city>Greeley</city>
     <state>CO</state>
@@ -3469,7 +3469,7 @@
     <id>51038</id>
     <postedAt>2024-23-11T02:05:37.1158</postedAt>
     <title>Cath Lab   </title>
-    <specialty></specialty>
+    <specialty>RN - Cath Lab</specialty>
     <category>RN</category>
     <city>Lawton</city>
     <state>OK</state>
@@ -3484,7 +3484,7 @@
     <id>67058</id>
     <postedAt>2024-23-11T02:05:37.1159</postedAt>
     <title>Nuclear Medicine Technologist</title>
-    <specialty></specialty>
+    <specialty>Nuclear Medicine Tech</specialty>
     <category>ALLIED</category>
     <city>Atlanta</city>
     <state>GA</state>
@@ -3499,7 +3499,7 @@
     <id>65258</id>
     <postedAt>2024-23-11T02:05:37.1160</postedAt>
     <title>MRI Technologist</title>
-    <specialty></specialty>
+    <specialty>MRI Technologist</specialty>
     <category>ALLIED</category>
     <city>Atlanta</city>
     <state>GA</state>
@@ -3544,7 +3544,7 @@
     <id>50921</id>
     <postedAt>2024-23-11T02:05:37.1163</postedAt>
     <title>Registered Respiratory Therapist</title>
-    <specialty></specialty>
+    <specialty>Registered Respiratory Therapist</specialty>
     <category>ALLIED</category>
     <city>Cincinnati</city>
     <state>OH</state>
@@ -3559,7 +3559,7 @@
     <id>50922</id>
     <postedAt>2024-23-11T02:05:37.1164</postedAt>
     <title>Registered Respiratory Therapist</title>
-    <specialty></specialty>
+    <specialty>Registered Respiratory Therapist</specialty>
     <category>ALLIED</category>
     <city>Cleveland</city>
     <state>OH</state>
@@ -3574,7 +3574,7 @@
     <id>50923</id>
     <postedAt>2024-23-11T02:05:37.1165</postedAt>
     <title>Registered Respiratory Therapist</title>
-    <specialty></specialty>
+    <specialty>Registered Respiratory Therapist</specialty>
     <category>ALLIED</category>
     <city>Fremont</city>
     <state>OH</state>
@@ -3604,7 +3604,7 @@
     <id>51148</id>
     <postedAt>2024-23-11T02:05:37.1167</postedAt>
     <title>Cardiac Cath Lab</title>
-    <specialty></specialty>
+    <specialty>RN - Cath Lab</specialty>
     <category>RN</category>
     <city>Des Moines</city>
     <state>IA</state>
@@ -3679,7 +3679,7 @@
     <id>51002</id>
     <postedAt>2024-23-11T02:05:37.1172</postedAt>
     <title>Cardiac Cath Lab</title>
-    <specialty></specialty>
+    <specialty>RN - Cath Lab</specialty>
     <category>RN</category>
     <city>Rock Island</city>
     <state>IL</state>
@@ -3709,7 +3709,7 @@
     <id>51144</id>
     <postedAt>2024-23-11T02:05:37.1174</postedAt>
     <title>Operating Room</title>
-    <specialty></specialty>
+    <specialty>RN - OR - Operating Room</specialty>
     <category>RN</category>
     <city>Robbinsdale</city>
     <state>MN</state>
@@ -3724,7 +3724,7 @@
     <id>68646</id>
     <postedAt>2024-23-11T02:05:37.1175</postedAt>
     <title>CT Technologist</title>
-    <specialty></specialty>
+    <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Atlanta</city>
     <state>GA</state>
@@ -3739,7 +3739,7 @@
     <id>68556</id>
     <postedAt>2024-23-11T02:05:37.1176</postedAt>
     <title>CT Technologist</title>
-    <specialty></specialty>
+    <specialty>CT Tech</specialty>
     <category>ALLIED</category>
     <city>Cumming</city>
     <state>GA</state>
@@ -3754,7 +3754,7 @@
     <id>68343</id>
     <postedAt>2024-23-11T02:05:37.1177</postedAt>
     <title>Mammography Technician</title>
-    <specialty></specialty>
+    <specialty>Mammography Tech</specialty>
     <category>ALLIED</category>
     <city>Lawrenceville</city>
     <state>GA</state>
@@ -3769,7 +3769,7 @@
     <id>35806</id>
     <postedAt>2024-23-11T02:05:37.1178</postedAt>
     <title>Radiology Technologist</title>
-    <specialty></specialty>
+    <specialty>Radiology Technologist</specialty>
     <category>ALLIED</category>
     <city>Huntsville</city>
     <state>AL</state>
@@ -3784,7 +3784,7 @@
     <id>66601</id>
     <postedAt>2024-23-11T02:05:37.1179</postedAt>
     <title>Surgical Technologist</title>
-    <specialty></specialty>
+    <specialty>Surgical Tech</specialty>
     <category>ALLIED</category>
     <city>Atlanta</city>
     <state>GA</state>
@@ -3799,7 +3799,7 @@
     <id>68891</id>
     <postedAt>2024-23-11T02:05:37.1180</postedAt>
     <title>Surgical Technologist</title>
-    <specialty></specialty>
+    <specialty>Surgical Tech</specialty>
     <category>ALLIED</category>
     <city>Canton</city>
     <state>GA</state>
@@ -3859,7 +3859,7 @@
     <id>51046</id>
     <postedAt>2024-23-11T02:05:37.1184</postedAt>
     <title>MRI Technologist</title>
-    <specialty></specialty>
+    <specialty>MRI Tech</specialty>
     <category>ALLIED</category>
     <city>Lebanon</city>
     <state>NH</state>
