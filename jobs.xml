@@ -2304,7 +2304,7 @@
     <city>Knox City</city>
     <state>TX</state>
     <startDate>2024-07-22T02:05:37.1081</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
     <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2160</weeklyPayRate>
@@ -2319,7 +2319,7 @@
     <city>Temple</city>
     <state>TX</state>
     <startDate>2024-07-22T02:05:37.1082</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
     <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2160</weeklyPayRate>
@@ -2334,7 +2334,7 @@
     <city>Claremont</city>
     <state>NH</state>
     <startDate>2024-07-22T02:05:37.1083</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
     <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2400</weeklyPayRate>
@@ -2424,7 +2424,7 @@
     <city>New London</city>
     <state>NH</state>
     <startDate>2024-07-22T02:05:37.1089</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2400</weeklyPayRate>
@@ -2439,7 +2439,7 @@
     <city>Rock Island</city>
     <state>IL</state>
     <startDate>2024-07-22T02:05:37.1090</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
     <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>3000</weeklyPayRate>
@@ -2499,8 +2499,8 @@
     <city>Madison</city>
     <state>WI</state>
     <startDate>2024-07-22T02:05:37.1094</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2800</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -2529,8 +2529,8 @@
     <city>Homer Glen</city>
     <state>IL</state>
     <startDate>2024-07-22T02:05:37.1096</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2750</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -2619,8 +2619,8 @@
     <city>Towson</city>
     <state>MD</state>
     <startDate>2024-07-22T02:05:37.1102</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2400</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -2634,8 +2634,8 @@
     <city>Mattoon</city>
     <state>IL</state>
     <startDate>2024-07-22T02:05:37.1103</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2200</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -2664,8 +2664,8 @@
     <city>Lawrenceville</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1105</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2800</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -2679,8 +2679,8 @@
     <city>Atlanta</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1106</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2470</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -2695,7 +2695,7 @@
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1107</startDate>
     <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2075</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -2709,8 +2709,8 @@
     <city>Duluth</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1108</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2075</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -2724,8 +2724,8 @@
     <city>Canton</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1109</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2800</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -2754,8 +2754,8 @@
     <city>Lawrenceville</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1111</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2000</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -2769,8 +2769,8 @@
     <city>Canton</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1112</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2000</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -2784,8 +2784,8 @@
     <city>Cumming</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1113</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2000</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -2859,9 +2859,9 @@
     <city>Phoenix</city>
     <state>AZ</state>
     <startDate>2024-07-22T02:05:37.1118</startDate>
-    <shiftsPerWeek>5</shiftsPerWeek>
-    <hoursPerShift>8</hoursPerShift>
-    <hoursPerWeek>32</hoursPerWeek>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
     <weeklyPayRate>1425</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
@@ -3445,7 +3445,7 @@
     <state>CO</state>
     <startDate>2024-07-22T02:05:37.1157</startDate>
     <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>36</hoursPerWeek>
     <weeklyPayRate>2170</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -3459,8 +3459,8 @@
     <city>Lawton</city>
     <state>OK</state>
     <startDate>2024-07-22T02:05:37.1158</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2762</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -3474,8 +3474,8 @@
     <city>Atlanta</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1159</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2350</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -3489,8 +3489,8 @@
     <city>Atlanta</city>
     <state>GA</state>
     <startDate>2024-07-22T02:05:37.1160</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2350</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -3504,8 +3504,8 @@
     <city>Hilton Head</city>
     <state>SC</state>
     <startDate>2024-07-22T02:05:37.1161</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>1950</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -3594,8 +3594,8 @@
     <city>Des Moines</city>
     <state>IA</state>
     <startDate>2024-07-22T02:05:37.1167</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>3010</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -3669,8 +3669,8 @@
     <city>Rock Island</city>
     <state>IL</state>
     <startDate>2024-07-22T02:05:37.1172</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>3010</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -3699,7 +3699,7 @@
     <city>Robbinsdale</city>
     <state>MN</state>
     <startDate>2024-07-22T02:05:37.1174</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
+    <shiftsPerWeek>5</shiftsPerWeek>
     <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2522</weeklyPayRate>
