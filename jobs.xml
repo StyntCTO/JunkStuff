@@ -999,8 +999,8 @@
     <city>Hamlin</city>
     <state>TX</state>
     <startDate>2024-07-22T02:05:37.993</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2200</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -1014,8 +1014,8 @@
     <city>Paris</city>
     <state>TX</state>
     <startDate>2024-07-22T02:05:37.994</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2200</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -1029,8 +1029,8 @@
     <city>Hamlin</city>
     <state>TX</state>
     <startDate>2024-07-22T02:05:37.995</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2150</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -1044,8 +1044,8 @@
     <city>Pampa</city>
     <state>TX</state>
     <startDate>2024-07-22T02:05:37.996</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2150</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -1059,8 +1059,8 @@
     <city>Borger</city>
     <state>TX</state>
     <startDate>2024-07-22T02:05:37.997</startDate>
-    <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>12</hoursPerShift>
+    <shiftsPerWeek>5</shiftsPerWeek>
+    <hoursPerShift>8</hoursPerShift>
     <hoursPerWeek>40</hoursPerWeek>
     <weeklyPayRate>2150</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
@@ -3445,7 +3445,7 @@
     <state>CO</state>
     <startDate>2024-07-22T02:05:37.1157</startDate>
     <shiftsPerWeek>3</shiftsPerWeek>
-    <hoursPerShift>8</hoursPerShift>
+    <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>36</hoursPerWeek>
     <weeklyPayRate>2170</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
