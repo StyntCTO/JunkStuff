@@ -3885,4 +3885,19 @@
     <weeklyPayRate>2002</weeklyPayRate>
     <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
+  <job>
+    <id>51352</id>
+    <postedAt>2024-07-07T02:05:37.1186</postedAt>
+    <title>RN - PCU / Stepdown</title>
+    <specialty>RN - PCU / Stepdown</specialty>
+    <category>RN</category>
+    <city>Saginaw</city>
+    <state>MI</state>
+    <startDate>2024-07-22T02:05:37.1187</startDate>
+    <shiftsPerWeek>3</shiftsPerWeek>
+    <hoursPerShift>12</hoursPerShift>
+    <hoursPerWeek>36</hoursPerWeek>
+    <weeklyPayRate>2170</weeklyPayRate>
+    <contractLengthInWeeks></contractLengthInWeeks>
+  </job>
 </jobs>
