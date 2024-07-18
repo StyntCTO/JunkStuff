@@ -3898,6 +3898,6 @@
     <hoursPerShift>12</hoursPerShift>
     <hoursPerWeek>36</hoursPerWeek>
     <weeklyPayRate>2170</weeklyPayRate>
-    <contractLengthInWeeks></contractLengthInWeeks>
+    <contractLengthInWeeks>13</contractLengthInWeeks>
   </job>
 </jobs>
